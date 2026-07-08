@@ -1,64 +1,177 @@
-# Somerton Man: A Multidisciplinary Forensic and Intelligence Assessment
+<p align="center">
+  <img src="assets/banner.png" alt="Somerton Man Intelligence Dossier Banner" width="100%">
+</p>
 
-This repository is the working archive for a long-term, evidence-controlled public assessment of the Somerton Man case.
+<h1 align="center">🕵️ Somerton Man Intelligence Dossier</h1>
 
-The project is designed as a research dossier, not as advocacy for any theory. It separates established fact, analytical assessment, working hypothesis, and speculative scenario. Claims from previous analysis, media reports, books, official records, and research notes must be independently verified before they can appear as findings in the manuscript.
+<p align="center">
+<b>An Evidence-Based Historical and Intelligence Assessment of the Somerton Man Case</b>
+</p>
 
-## Repository Status
+<p align="center">
 
-Current phase: post-Mission 9 analytical review.
+![Version](https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL--3.0-green?style=for-the-badge)
 
-The repository has moved beyond manuscript setup into a structured investigative knowledge base. Missions 1-9 have created the project foundation, evidence database, primary-source inventory, verification matrix, chronology, witness/exhibit index, victimology package, forensic-medical layer, and physical-evidence/scene reconstruction layer.
+</p>
 
-The manuscript is intentionally not being drafted yet. The next phase is analytical: witness reliability, historical/intelligence context, and structured analytic assessment. The LaTeX dossier should be assembled only after those layers are complete.
+---
 
-## Build
+# 📖 Overview
 
-Requirements:
+The **Somerton Man Intelligence Dossier** is a comprehensive, evidence-based investigation into one of Australia's most enduring unidentified-person cases.
 
-- TeX Live or MacTeX with `latexmk`, `xelatex`, and `biber`
-- GNU Make, optional but recommended
+Rather than advocating a preferred theory, this project applies structured analytical techniques, forensic reasoning, historical research methods, and intelligence-analysis principles to evaluate the available evidence.
 
-Build the manuscript:
+The objective is **not** to declare the case solved.
 
-```bash
-make pdf
+Instead, the dossier documents:
+
+- ✅ Established facts
+- ✅ Supported inferences
+- ✅ Competing hypotheses
+- ✅ Evidence quality
+- ✅ Confidence assessments
+- ✅ Remaining uncertainties
+
+Every effort has been made to distinguish evidence from interpretation while maintaining transparency regarding limitations.
+
+---
+
+# 📄 Current Publication
+
+## Version 1.0.0
+
+The first public release contains a complete intelligence-style assessment of the Somerton Man investigation.
+
+### Publication Statistics
+
+| Metric | Value |
+|---------|------:|
+| Pages | **101** |
+| Words | **28,930** |
+| References | **64** |
+| Evidence Tables | **51** |
+| Historical Claims Reviewed | **75** |
+| Competing Hypotheses Evaluated | **6** |
+
+📥 **The complete PDF is available from the GitHub Releases page.**
+
+---
+
+# 🔬 Methodology
+
+This project follows an evidence-first methodology inspired by professional historical research, forensic investigation, and intelligence analysis.
+
+Methods include:
+
+- Primary-source verification
+- Evidence confidence assessment
+- Source reliability analysis
+- Analysis of Competing Hypotheses (ACH)
+- Intelligence requirements development
+- Structured analytic techniques
+- Transparent uncertainty reporting
+- Reproducible LaTeX publication workflow
+
+---
+
+# 📂 Repository Structure
+
+```text
+assets/             Repository graphics and screenshots
+bibliography/       BibLaTeX reference database
+documentation/      Project architecture and methodology
+evidence/           Primary and secondary source archive
+figures/            Images used throughout the dossier
+manuscript/         Complete LaTeX manuscript
+research/           Structured research database
+release/            Versioned publication releases
+verification/       Claim verification framework
 ```
 
-Clean generated TeX artifacts:
+---
 
-```bash
-make clean
-```
+# 🎯 Research Principles
 
-The compiled PDF is written to `generated_output/pdf/somerton-man-assessment.pdf`.
+This investigation is built upon five guiding principles:
 
-## Research Standard
+1. **Evidence before conclusions**
+2. **Transparency over certainty**
+3. **Clear separation of fact, inference, and hypothesis**
+4. **Explicit confidence assessments**
+5. **Reproducible research**
 
-Evidence priority:
+Where evidence is insufficient, uncertainty is documented rather than replaced with speculation.
 
-1. Primary records and official documents
-2. Contemporary records
-3. Peer-reviewed or specialist secondary sources
-4. Later media reports and commentary
-5. Prior internal analysis and hypotheses
+---
 
-Every factual statement intended for publication must trace to the structured research database, including the verification matrix, chronology, source registers, witness/exhibit indexes, forensic registers, and physical-evidence catalogue.
+# 📚 Citation
 
-## Research Release Model
+Citation metadata is available in **CITATION.cff**.
 
-This project should be treated as a versioned research archive, not a one-time book file. The PDF dossier is one output of the evidence database. Future public releases should preserve the underlying CSV registers and explain what changed between versions, such as new primary sources, chronology corrections, DNA updates, medical review changes, or expanded structured analysis.
+If you reference this work in academic or professional research, please cite the released version.
 
-## Repository Description
+---
 
-Suggested GitHub description:
+# 📦 Releases
 
-> Evidence-controlled LaTeX research dossier for a multidisciplinary forensic, historical, and intelligence assessment of the Somerton Man case.
+The repository follows Semantic Versioning.
 
-Suggested topics:
+| Version | Description |
+|----------|-------------|
+| **v1.0.0** | Initial public release |
 
-`somerton-man`, `tamam-shud`, `forensic-history`, `cold-war-history`, `intelligence-analysis`, `latex`, `open-research`, `case-review`, `source-verification`, `australian-history`
+Future releases may include:
 
-## License
+- Editorial corrections
+- Newly verified archival material
+- Official investigative findings
+- Additional forensic evidence
+- Methodological improvements
 
-See `LICENSE`. Research text is released under CC BY 4.0 unless otherwise stated. Source code and build tooling are released under MIT.
+---
+
+# 🤝 Contributing
+
+Constructive contributions are welcome.
+
+Before contributing, please read:
+
+- CONTRIBUTING.md
+- CODE_OF_CONDUCT.md
+- SECURITY.md
+
+---
+
+# ⚖️ License
+
+This repository is released under the **GNU General Public License v3.0**.
+
+Please note that certain third-party archival materials referenced or reproduced within the repository may remain subject to their respective copyright or archival-use conditions.
+
+---
+
+# 🙏 Acknowledgements
+
+This project draws upon publicly available archival records, historical publications, forensic literature, government resources, and the work of numerous researchers who have contributed to the understanding of the Somerton Man case over many decades.
+
+---
+
+# 📌 Project Status
+
+🟢 **Current Status:** Published
+
+📄 **Latest Release:** Version 1.0.0
+
+This repository is intended to function as a living research archive. Future versions will incorporate verified evidence, official findings, and documented corrections while preserving complete version history.
+
+---
+
+<p align="center">
+
+*"Responsible investigation requires acknowledging uncertainty where evidence remains incomplete."*
+
+</p>
