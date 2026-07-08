@@ -57,6 +57,15 @@ The first public release contains a complete intelligence-style assessment of th
 | Historical Claims Reviewed | **75** |
 | Competing Hypotheses Evaluated | **6** |
 
+# 📥 Downloads
+
+| File | Description |
+|------|-------------|
+| 📄 **[Download PDF (v1.0.0)](../../releases/latest/download/somerton-man-intelligence-dossier-v1.0.0.pdf)** | Complete published dossier (101 pages) |
+| 📦 **[Download Source (.zip)](../../archive/refs/tags/v1.0.0.zip)** | Complete LaTeX project source |
+| 📁 **[Browse Repository](.)** | Research database, manuscript and documentation |
+| 🏷️ **[Latest Release](../../releases/latest)** | Release notes and downloadable assets |
+
 📥 **The complete PDF is available from the GitHub Releases page.**
 
 ---
