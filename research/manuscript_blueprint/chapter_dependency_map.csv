@@ -1,0 +1,13 @@
+chapter_id,dependencies,writing_position,reason
+CH-02,None,Write first after blueprint,Sets terminology and claim discipline for every chapter.
+CH-03,CH-02,"Write before identity, scene and analytic chapters",All later reconstruction chapters rely on chronology IDs and uncertainty labels.
+CH-04,CH-02; CH-03,Write after chronology,Identity claims depend on chronology and OSINT guardrail.
+CH-05,CH-02; CH-03,Write after chronology,Scene/exhibit handling depends on discovery sequence.
+CH-06,CH-02; CH-03,Write after chronology,Medical timing statements must be anchored to the event sequence.
+CH-07,CH-02; CH-03; CH-05; CH-08,Write after scene and witness layers,Rubaiyat/cipher interpretation depends on exhibit custody and witnesses.
+CH-08,CH-02; CH-03,Write before Rubaiyat and models,Social-network constraints shape later hypotheses.
+CH-09,CH-02,Write after evidence chapters or in parallel as context,"Must remain context, not proof."
+CH-10,CH-02; CH-04; CH-05; CH-07; CH-09,Write after factual and context chapters,Intelligence hypotheses require prior fact/context separation.
+CH-11,CH-02; CH-03; CH-04; CH-05; CH-06; CH-07; CH-08; CH-09; CH-10,Write near the end,ACH-style comparison needs all evidence clusters.
+CH-01,CH-02 through CH-12,Draft last despite appearing first,Executive assessment must reflect final chapter evidence.
+CH-12,CH-02 through CH-11,Draft immediately before executive assessment,Findings/unknowns synthesize the full dossier.

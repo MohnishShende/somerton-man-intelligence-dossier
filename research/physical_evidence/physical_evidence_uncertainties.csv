@@ -1,0 +1,11 @@
+uncertainty_id,physical_evidence_id,question,evidence_bearing_on_question,current_status,priority,recommended_source_or_action
+PEU-0001,PE-0014,When exactly was the Tamam Shud slip found and by whom?,Coroner says not found for some time; Brown says received from Leane; Cleland describes fob pocket.,Unresolved,Critical,Official inquest file pages beyond OCR; police property notes.
+PEU-0002,PE-0017,Who deposited the suitcase and does the ticket prove association with the deceased?,North/Leane prove unclaimed suitcase and internal association evidence; depositor unidentified.,Unresolved,Critical,Railway cloakroom records; police notebook; A. Craig statement if extant.
+PEU-0003,PE-0007,Were labels deliberately removed before death?,Tags missing/torn; Cleland did not find threads showing recent removal.,Unresolved,High,High-resolution garment photos; textile examination report.
+PEU-0004,PE-0002,Was the partly smoked cigarette collected and examined?,Moss observed; no collection/lab record found.,Unknown,High,Scene property inventory; police evidence receipt.
+PEU-0005,PE-0022,Was the thread physically retained or only observed?,Cleland testified microscopic correspondence; no lab record acquired.,Unknown,High,Exhibit/property custody file; microscope notes.
+PEU-0006,PE-0031,Where are the body photographs C.5-C.8?,Durham produced them and they were marked/returned in part.,Unknown,High,Archive/photo collection inquiry.
+PEU-0007,PE-0030,Where are suitcase photographs C.10-C.14?,Marked on p.75; not preserved locally.,Unknown,High,Archive/photo collection inquiry.
+PEU-0008,PE-0029,Were biological samples retained?,Cowan received and tested specimens; no retention/disposal file acquired.,Unknown,Critical,Government analyst/lab archive; coroner/SAPOL/FSSA records.
+PEU-0009,PE-0027,What is the current status/custodian of the death mask or bust?,Lawson made it and police custody ordered; present status not in acquired primary text.,Unknown,High,SAPOL Historical Society / museum / coroner archive inquiry.
+PEU-0010,PE-0015,What happened to the associated Rubaiyat copy?,Brown compared slip to copies; original associated book provenance unresolved here.,Unresolved,Critical,Police file 1958 visual review; CIB records; Abbott archive source trail.

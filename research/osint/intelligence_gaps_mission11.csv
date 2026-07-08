@@ -1,0 +1,9 @@
+gap_id,priority,gap,related_findings,status,recommended_action
+M11-IG-0001,Critical,Official coroner/SAPOL identity determination for Carl Webb,M11-FND-0001; M11-FND-0003,Open,Request/monitor coroner report and SAPOL/FSSA statement.
+M11-IG-0002,Critical,"Underlying DNA laboratory report, chain of custody and match methodology",M11-FND-0003; M11-FND-0004; M11-FND-0005,Open,Seek Astrea/Identifinders/Abbott technical documentation or official forensic report.
+M11-IG-0003,High,Full Carl Webb civil/court record package,M11-FND-0006; M11-FND-0007; M11-FND-0008,Open,"Acquire birth, marriage, divorce, electoral, employment and probate/death absence records."
+M11-IG-0004,High,Original Rubaiyat book custody and paper/print test results,M11-FND-0011,Open,"Locate police file, exhibit photos, forensic paper comparison records."
+M11-IG-0005,High,Original body/suitcase evidence destruction or retention files,Mission 9 custody matrix,Open,Request SAPOL/State Records/Historical Society property records.
+M11-IG-0006,High,Reliable isotope-analysis source,M11-FND-0017,Open,Locate original hair isotope data or remove isotope claims from manuscript.
+M11-IG-0007,Medium,Peer-reviewed or official evaluation of code analyses,M11-FND-0011,Open,Defer to Mission 12 cryptographic/document analysis.
+M11-IG-0008,High,Primary Thomson/Jestyn interview records,M11-FND-0012,Open,Acquire police interview materials or Lawson diary/source images.

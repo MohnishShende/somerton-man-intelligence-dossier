@@ -1,0 +1,7 @@
+evidence_weight_id,evidence_cluster,weight,rationale
+EWM-001,Medical observations from inquest/pathology,High,"Closest to mechanism of death, but limited by 1948 science."
+EWM-002,Property and clothing observations,Moderate,Good for object existence and possible behaviour; weak for motive.
+EWM-003,Witness timeline,Moderate,Important but identification and memory limitations remain.
+EWM-004,Rubaiyat/Tamam Shud/writing,Moderate for existence; Low for interpretation,Real artefacts with unstable meanings.
+EWM-005,Modern DNA/Webb material,Potentially High; currently conditional,Needs official/lab documentation and coronial status.
+EWM-006,Cold War/Woomera/ASIO context,High for environment; Very Low for case proof,"Explains plausibility, not linkage."

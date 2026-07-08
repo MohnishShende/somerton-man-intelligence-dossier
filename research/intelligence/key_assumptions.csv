@@ -1,0 +1,7 @@
+assumption_id,assumption,risk,current_status
+ASM-001,The man seen on 30 November and the dead man are definitively the same person.,Witness continuity is not secure enough for unqualified identity.,Not secure
+ASM-002,Missing labels imply intelligence-style sanitisation.,Labels can be removed for ordinary reasons; actor/timing unknown.,Weak assumption
+ASM-003,Undetected poison means exotic poison.,Negative tests may reflect limits or absence; no specific agent detected.,Weak assumption
+ASM-004,Code means intelligence cipher.,"Writing may be code, mnemonic, shorthand or nonsense.",Weak assumption
+ASM-005,Woomera proximity implies security relevance.,Context is real but case linkage is absent.,False if treated as proof
+ASM-006,Carl Webb is officially confirmed.,Researcher/lab lead exists; official coroner/SAPOL record not acquired.,Not secure

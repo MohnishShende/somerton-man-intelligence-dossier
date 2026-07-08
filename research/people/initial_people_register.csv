@@ -1,0 +1,13 @@
+person_id,name_or_label,role_or_relevance,source_origin,verification_status,notes
+P-0001,"Somerton Man / unidentified man / Carl Webb attribution","Subject of case",internal_prior_assessment,unverified,"Identity and naming to be controlled by evidence status."
+P-0002,"Dr. John Dwyer","Pathologist named in prior assessment",internal_prior_assessment,unverified,
+P-0003,"Jessica Thomson / Jestyn","Person associated with phone number and witness claims",internal_prior_assessment,unverified,"Handle claims carefully due to family and privacy implications."
+P-0004,"Robin Thomson","Named in DNA and resemblance claims",internal_prior_assessment,unverified,"Handle claims carefully due to family and privacy implications."
+P-0005,"Carl / Charles Webb","Identity proposed in prior assessment",internal_prior_assessment,unverified,
+P-0006,"Tibor Kaldor","Named in comparative or possible network claims",internal_prior_assessment,unverified,"Relationship to case not established."
+P-0007,"Walter Krivitsky","Comparative intelligence-death reference",internal_prior_assessment,unverified,
+P-0008,"Louis F. Budenz","Comparative reference in prior assessment",internal_prior_assessment,unverified,
+P-0009,"Isdal Woman","Comparative unidentified-death reference",internal_prior_assessment,unverified,
+P-0010,"Georgi Markov","Comparative assassination reference",internal_prior_assessment,unverified,
+P-0011,"Alexander Litvinenko","Comparative assassination reference",internal_prior_assessment,unverified,
+

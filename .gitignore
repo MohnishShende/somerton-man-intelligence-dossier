@@ -1,0 +1,68 @@
+# TeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.log
+*.out
+*.run.xml
+*.toc
+*.lof
+*.lot
+*.acn
+*.acr
+*.alg
+*.synctex.gz
+
+# Generated output
+manuscript/build/
+generated_output/pdf/*.pdf
+generated_output/tex/*
+generated_output/figures/*
+generated_output/tables/*
+!generated_output/tex/.gitkeep
+!generated_output/figures/.gitkeep
+!generated_output/tables/.gitkeep
+
+# Local temporary files
+tmp/
+.DS_Store
+
+# Local tool shims
+tools/biber
+tools/biber-arm64
+
+# Large source material should be tracked intentionally
+*.tmp
+
+# LaTeX build artifacts
+manuscript/build/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.toc
+*.xdv
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+
+# Temporary files
+tmp/
+.DS_Store

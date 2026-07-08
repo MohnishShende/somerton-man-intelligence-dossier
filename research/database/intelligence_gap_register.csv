@@ -1,0 +1,13 @@
+gap_id,priority,current_status,potential_future_sources,related_evidence,notes
+IG-001,"Critical","Unknown cause and manner of death remain unresolved in current database","SRC-0001 full inquest file; autopsy report; toxicology report; SRC-0019; any FSSA reports","EV-0017; EV-0018","No analytical conclusion to be drawn in Mission 2."
+IG-002,"Critical","Official identity verification status unresolved","SAPOL statement; FSSA report; coroner/police update; civil records for Carl Webb","EV-0006; EV-0018","Distinguish researcher identification from official confirmation."
+IG-003,"Critical","Current status and chain of custody of original Tamam Shud slip unknown","Police file; State Records inquest exhibits; SAPOL/Historical Society inquiry","EV-0001","Need exhibit-level record."
+IG-004,"Critical","Current status and provenance of Rubaiyat copy unknown","Police file; inquest exhibits; Leane statement; Feltus book; archive correspondence","EV-0002","Recovery narrative is source-sensitive."
+IG-005,"High","Brown suitcase destruction and inventory details not verified","Police property records; Feltus book; CIB reports; inquest file","EV-0003","Destruction claim requires official source."
+IG-006,"High","Complete clothing inventory and label-removal evidence not directly verified","Inquest file; police inventory; photographs","EV-0004; EV-0005","Avoid claims about intentional label removal until sourced."
+IG-007,"High","Original witness statements not yet reviewed","SRC-0001; police files if accessible; Trove reports","EV-0014","Witness timing and body posture need transcript-level support."
+IG-008,"High","Exact toxicology methods and analytes not yet catalogued","Autopsy report; Cowan lab report; inquest file","EV-0017","Archive summary names common poison categories only."
+IG-009,"Medium","Exact locations and movements on 30 Nov-1 Dec 1948 not fully documented","Ticket clerk statements; bus conductor statements; transport timetables","EV-0008; EV-0009","Needed for later chronology."
+IG-010,"Medium","Death mask custodian and sampling permissions unclear","SAPOL; SA Police Historical Society; FSSA; researcher correspondence","EV-0006; EV-0007","Needed before image/DNA claims."
+IG-011,"Medium","Cipher/code image provenance and high-resolution copy not yet secured","Police files; Abbott source index; inquest exhibits","EV-0002","Catalogue image only after usable source secured."
+IG-012,"Medium","Any direct intelligence-service records connecting case to espionage are not identified","NAA RecordSearch; ASIO historical publications; RCIS records; declassification requests","N/A","Context sources do not establish case connection."

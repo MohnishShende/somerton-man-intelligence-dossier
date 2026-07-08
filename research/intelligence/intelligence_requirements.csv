@@ -1,0 +1,8 @@
+ir_id,intelligence_question,priority,current_evidence_position,missing_evidence,responsible_chapter,status
+IR-001,Is there an official custodial/coronial identification of the deceased?,Critical,Researcher/lab lead exists; official closure missing.,Coroner/SAPOL/FSSA report,CH-04; CH-12,Open
+IR-002,What was the medically supportable cause and mechanism of death?,Critical,Unresolved.,Full toxicology/autopsy/lab records and expert re-review,CH-06,Open
+IR-003,Did death occur at Somerton Beach or elsewhere?,High,Unresolved.,"Transfer indicators, witness continuity, scene evidence",CH-05,Open
+IR-004,Can the suitcase be linked beyond association?,High,Association evidence only.,"Cloakroom records, exhibit chain, property notes",CH-05,Open
+IR-005,What is the provenance of the Rubaiyat copy and slip?,High,Partial.,"Recovery documentation, exhibit photos, bibliographic confirmation",CH-07,Open
+IR-006,Is the writing meaningfully code?,Medium,Unresolved.,"High-quality images, indentation analysis, cryptanalytic review",CH-07; CH-11,Open
+IR-007,Do security archives name the deceased or linked persons?,High,No direct link acquired.,NAA/ASIO/UK/US archive searches,CH-10,Open

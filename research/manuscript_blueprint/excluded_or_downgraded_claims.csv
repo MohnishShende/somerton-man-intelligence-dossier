@@ -1,0 +1,13 @@
+exclusion_id,claim_or_topic,status,manuscript_instruction,basis,affected_chapters
+EXC-0001,Poisoning by Digitalis/strophanthin/exotic agent,Unsupported,Exclude as factual claim; may appear only as historical hypothesis if sourced and clearly marked.,research/verification/claim_revision_register.csv CRR-0008 to CRR-0010; research/forensic_medical/forensic_medical_summary.md,CH-06; CH-11
+EXC-0002,All poisons were ruled out,Overstated,Downgrade to: common poisons were not detected in submitted specimens.,research/forensic_medical/toxicology_register.csv; CRR-0006 to CRR-0007,CH-06
+EXC-0003,Cause of death was known,Unsupported/overstated,Use: precise cause of death remained undetermined in available coronial material.,CRR-0012; research/forensic_medical/medical_uncertainties.csv,CH-06; CH-12
+EXC-0004,Melbourne-Adelaide train-ticket claim,Unsupported,Remove unless future source directly supports it; use Adelaide-to-Henley Beach rail-ticket evidence.,CRR-0018; CRR-0019,CH-03
+EXC-0005,Woomera/Maralinga as verified case locations,Unsupported,Move to historical context only; no direct case-location claim.,conflicting_sources_register.csv CON-0004; Mission 10 contextual report,CH-09; CH-10
+EXC-0006,Espionage linkage as conclusion,Unsupported,Retain only as hypothesis/context; no direct intelligence-service linkage currently acquired.,verification_summary.md; research/osint/mission_11_summary.md,CH-10; CH-11
+EXC-0007,Carl Webb identity officially solved,Overstated/current-status conflict,Use: researcher/lab-led Carl Webb attribution pending official coroner/SAPOL determination.,research/database/decision_log.csv DEC-0009; research/osint/executive_summary.md,CH-01; CH-04; CH-12
+EXC-0008,Jessica Thomson shock/denial as established fact,Unable to Verify,Exclude unless direct interview notes or reliable transcript are acquired.,CRR-0015,CH-08
+EXC-0009,Robin Thomson physical/DNA linkage,Unsupported,Exclude from factual narrative; may be listed as prior unsupported claim.,CRR-0016; CRR-0017; CRR-0028,CH-08; CH-11
+EXC-0010,Clothing label removal intent/timing,Partially verified but over-interpreted,"Use: identifying tags appeared removed; actor, timing and intent unknown.",CRR-0038; CON-0002; research/physical_evidence/physical_evidence_summary.md,CH-05
+EXC-0011,Rubaiyat/code proves espionage,Unsupported interpretation,Use as documentary evidence with unresolved meaning.,research/osint/mission_11_summary.md; research/physical_evidence/physical_evidence_summary.md,CH-07; CH-10
+EXC-0012,Isotope analysis as established evidence,Not located/reliable,Move to intelligence gap unless primary documentation is acquired.,research/osint/mission_11_summary.md; research/osint/intelligence_gaps_mission11.csv,CH-12

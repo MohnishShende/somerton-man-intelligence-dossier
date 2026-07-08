@@ -1,0 +1,7 @@
+source_reliability_id,source_class,examples,weight,main_caveat
+SRM-001,Original official case records,"Coroner, police, pathology, exhibits",Very High,Legibility and completeness
+SRM-002,Certified/archival reproductions,"Official scans, archive copies",High,Copy quality and missing enclosures
+SRM-003,Contemporary official statements,SAPOL/FSSA public releases,High,Only speak to stated public position
+SRM-004,Contemporary newspapers/legal notices,Trove reporting and notices,Moderate,OCR errors and press simplification
+SRM-005,Researcher/lab participant accounts,Abbott/Fitzpatrick/Astrea accounts,Low-Moderate to Medium,May not include full methods or official custody
+SRM-006,Later synthesis/commentary,"ABC explainers, Smithsonian, books/blogs",Low to Moderate,May inherit earlier errors or mix inference with fact

@@ -1,0 +1,19 @@
+relationship_id,subject,related_party,relationship_type,evidence_or_basis,verification_status,notes
+REL-0001,PER-0001 Unknown man,WIT-0001 Name not legible in OCR,Observed possible same man on beach evening 30 Nov and body next morning,DOC-0001 pp.15-17,Partially Verified,Identity of person seen on evening not conclusively established.
+REL-0002,PER-0001 Unknown man,WIT-0002 John Moss,Police responder and property-search witness,DOC-0001 pp.19-21,Verified,No personal relationship; official contact after death.
+REL-0003,PER-0001 Unknown man,WIT-0003 Edmund Leslie Hall,Transport-ticket evidence witness,DOC-0001 p.23,Verified,No personal relationship; document/ticket evidence only.
+REL-0004,PER-0001 Unknown man,WIT-0004 Arthur Anzac Holdernesse,Bus conductor whose log related to ticket,DOC-0001 p.25,Partially Verified,No independent recollection of passenger.
+REL-0005,PER-0001 Unknown man,WIT-0006 Gordon Kenneth Strapps,Observed man on beach evening 30 Nov,DOC-0001 pp.31-33,Verified as observation,Identity not established.
+REL-0006,PER-0001 Unknown man,WIT-0009 Olive Constance Neill,Observed man on beach evening 30 Nov,DOC-0001 p.51,Verified as observation,Identity not established.
+REL-0007,PER-0001 Unknown man,WIT-0010 Harold Rolfe North,Cloak-room/luggage ticket witness,DOC-0001 pp.53-55,Verified,No personal relationship; suitcase linkage uncertain but supported as evidence lead.
+REL-0008,PER-0001 Unknown man,WIT-0011 Raymond Lionel Leane,Police investigator,"DOC-0001 pp.57-69,77",Verified,Official investigative relationship after death.
+REL-0009,PER-0001 Unknown man,WIT-0012 Patrick James Durham,Photographer/fingerprint expert,DOC-0001 p.63,Verified,Official identification work after death.
+REL-0010,PER-0001 Unknown man,WIT-0015 Douglas George Townsend,Ticket clerk for Henley Beach ticket,DOC-0001 p.75,Verified as ticket witness,Did not remember purchaser; no known personal interaction.
+REL-0011,PER-0001 Unknown man,WIT-0007 John Matthew Dwyer,Postmortem medical witness,DOC-0001 pp.35-45,Verified,Official medical examination after death.
+REL-0012,PER-0001 Unknown man,WIT-0008 Robert James Cowan,Analyst of biological specimens,DOC-0001 pp.47-49,Verified,Official analytical role; no personal relationship.
+REL-0013,PER-0001 Unknown man,WIT-0005 Paul Francis Lawson,Made cast/bust of deceased,DOC-0001 pp.27-29,Verified,Official/technical role after death.
+REL-0014,PER-0001 Unknown man,WIT-0014 Leonard Douglas Brown,Police inquiry into clothing/Rubaiyat slip,DOC-0001 pp.71-73,Verified,Official investigative relationship after death.
+REL-0015,PER-0001 Unknown man,PER-0009 Carl Charles Webb attribution,Proposed modern identity,verification_matrix PA2025-024/025/030,Unable to Verify,No acquired official DNA/genealogy report in current project archive.
+REL-0016,PER-0001 Unknown man,PER-0006 Jessica Thomson,Reported later source connection via phone/Rubaiyat,verification_matrix PA2025-013/014/015,Partially Verified/Unable to Verify,No acquired primary interview/residence source sufficient to establish relationship.
+REL-0017,PER-0001 Unknown man,PER-0008 Alf Boxall,Later Rubaiyat-related lead,DOC-0018 acquired as military record; verification_matrix PA2025-014/036/044,Unable to Verify,No acquired primary case-source proof of direct relationship to deceased.
+REL-0018,PER-0001 Unknown man,Family/friends/employer,Unknown,No acquired primary source,Unknown,"No verified family, friend, employer or associate relationship established in current evidence base."

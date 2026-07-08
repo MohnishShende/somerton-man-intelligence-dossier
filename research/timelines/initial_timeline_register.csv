@@ -1,0 +1,7 @@
+event_id,date_or_range,event_summary,source_origin,verification_status,related_claim_ids,notes
+T-0001,"1948-11-30","Prior assessment states the man was last seen alive in the evening.",internal_prior_assessment,unverified,PA2025-063,
+T-0002,"1948-12-01","Prior assessment states the body was discovered and investigation began.",internal_prior_assessment,unverified,PA2025-064,
+T-0003,"1948-12 to 1949","Prior assessment places discovery of the Tamam Shud note and book in this range.",internal_prior_assessment,unverified,PA2025-065,"Exact dates required."
+T-0004,"1949-03","Prior assessment states ASIO was founded in March 1949.",internal_prior_assessment,unverified,PA2025-053,
+T-0005,"1954","Prior assessment references the Petrov Affair as evidence of espionage context.",internal_prior_assessment,unverified,PA2025-055,
+

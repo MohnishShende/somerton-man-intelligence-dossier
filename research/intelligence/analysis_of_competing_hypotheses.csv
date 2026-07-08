@@ -1,0 +1,7 @@
+ach_id,hypothesis,supporting_evidence,contradictory_or_limiting_evidence,critical_missing_evidence,current_confidence
+ACH-001,Natural death,Compatible with unresolved cause.,No convincing fatal natural disease endpoint established in acquired medical layer.,Full pathology/lab record; modern review.,Low-Moderate
+ACH-002,Accidental poisoning,Compatible with poison considered and not detected.,No identified substance or accidental exposure pathway.,Exposure source; retained-sample testing; last-meal/source evidence.,Low-Moderate
+ACH-003,Suicide,Compatible with solitary circumstances only at broad level.,"No verified note, poison, identity-linked self-harm record or purchase/access evidence.",Official identity plus personal/medical/court records and toxic source.,Low
+ACH-004,Homicide,Compatible with unresolved cause/place and possible body-transfer uncertainty.,"No direct assailant evidence, struggle, weapon or administered agent.",Named suspect linkage; poison administration evidence; transport proof.,Low-Moderate
+ACH-005,Espionage killing,Historically plausible context.,No case-specific intelligence-service linkage; Woomera/Maralinga not verified case locations.,Security-file hit; named service linkage; decryption/operation record.,Very Low
+ACH-006,Unknown / undetermined,Best preserves the current conservative evidence posture.,Least explanatory as narrative; keeps multiple gaps open.,"Any high-quality breakthrough on identity, cause, place or last movements.",Moderate-High

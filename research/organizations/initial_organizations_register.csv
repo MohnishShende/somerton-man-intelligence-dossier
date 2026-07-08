@@ -1,0 +1,9 @@
+organization_id,name,role_or_relevance,source_origin,verification_status,notes
+O-0001,"Royal Adelaide Hospital","Named in pathology claim",internal_prior_assessment,unverified,
+O-0002,"ASIO","Historical context and archive target",internal_prior_assessment,unverified,
+O-0003,"MI5","Archive target named in prior assessment",internal_prior_assessment,unverified,
+O-0004,"Venona Project","Signals-intelligence context named in prior assessment",internal_prior_assessment,unverified,
+O-0005,"J.C. Williamson theater company","Biographical claim involving Carl Webb",internal_prior_assessment,unverified,
+O-0006,"Five Eyes","Historical intelligence-sharing context",internal_prior_assessment,unverified,
+O-0007,"Woomera Rocket Range","Defense-context location or institution",internal_prior_assessment,unverified,
+

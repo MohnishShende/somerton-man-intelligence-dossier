@@ -1,0 +1,13 @@
+term_id,category,preferred_term,allowed_variants,deprecated_terms,usage_note
+VOC-0001,person,Unknown man found at Somerton,Somerton Man; unidentified decedent,Carl Webb as established identity,Use for pre-official identity phrasing.
+VOC-0002,person,Carl Charles Webb attribution,Carl Webb lead; Charles Webb attribution,Somerton Man was Carl Webb,Use only with official-status caveat.
+VOC-0003,organization,South Australia Police,SAPOL,SA police,"Use full name on first use, abbreviation thereafter."
+VOC-0004,organization,Forensic Science SA,FSSA,Forensics SA,Use for modern forensic agency references.
+VOC-0005,document,DOC-0001 1949 inquest reproduction,1949 inquest file,original 1949 inquest unless official custodian copy is meant,Abbott-hosted copy is a later reproduction.
+VOC-0006,evidence,Tamam Shud slip,Taman Shud slip; Tamán Shud slip,Tamám Shud note without context,Use one spelling in manuscript; note variant spellings in glossary.
+VOC-0007,evidence,Rubaiyat copy,Rubáiyát; Rubaiyat,codebook as fact,Use neutral documentary-evidence wording.
+VOC-0008,location,Somerton Beach,Somerton,crime scene,"Use scene/location, not crime scene unless legal finding supports it."
+VOC-0009,status,No common poison detected,negative common-poison tests,no poison was present,Preserves toxicology limitation.
+VOC-0010,status,Exact cause of death undetermined,cause unresolved,death by poison as fact,Required medical wording.
+VOC-0011,status,Researcher/lab-led identification lead,Webb attribution,official identification,Use until coroner/SAPOL record obtained.
+VOC-0012,analysis,Historical context,Cold War setting; Woomera context,case evidence,Context does not prove linkage.

@@ -1,0 +1,13 @@
+Confidence ID,Assessment Area,Chapter Confidence,Repository Source,Justification,Review Result
+ICA-001,Identity,Moderate,research/intelligence/intelligence_confidence_register.csv,"Researcher/lab-led Webb attribution is substantial but official SAPOL/coroner record is missing.",Wording controlled.
+ICA-002,Cause of death,Moderate,research/intelligence/intelligence_confidence_register.csv,"Medically unresolved; poisoning possible but not established; no specific agent detected.",Wording controlled.
+ICA-003,Place of death,Low-Moderate,research/intelligence/intelligence_confidence_register.csv,"No decisive transfer proof; beach death scene and deposition remain unresolved.",Wording controlled.
+ICA-004,Rubaiyat/code meaning,Low-Moderate,research/intelligence/intelligence_confidence_register.csv,"Artefact cluster is real; meaning unresolved.",Wording controlled.
+ICA-005,Intelligence involvement,Very Low,research/intelligence/intelligence_confidence_register.csv,"Historical environment plausible; direct case proof absent.",Wording controlled.
+ICA-006,Unknown/undetermined model,Moderate-High,research/intelligence/intelligence_confidence_register.csv,"Preserves unresolved evidence state and avoids unsupported mechanism selection.",Wording controlled.
+ACH-001,Natural death,Low-Moderate,research/intelligence/analysis_of_competing_hypotheses.csv,"Compatible with unresolved cause but no established fatal natural endpoint.",No upgrade.
+ACH-002,Accidental poisoning,Low-Moderate,research/intelligence/analysis_of_competing_hypotheses.csv,"Compatible with toxicology uncertainty but no substance or exposure path.",No upgrade.
+ACH-003,Suicide,Low,research/intelligence/analysis_of_competing_hypotheses.csv,"Broad solitary circumstances only; intent/access evidence absent.",No upgrade.
+ACH-004,Homicide,Low-Moderate,research/intelligence/analysis_of_competing_hypotheses.csv,"Unresolved cause/place allows possibility; assailant/administered-agent proof absent.",No upgrade.
+ACH-005,Espionage killing,Very Low,research/intelligence/analysis_of_competing_hypotheses.csv,"Context exists; direct service or operation linkage absent.",No upgrade.
+ACH-006,Unknown / undetermined,Moderate-High,research/intelligence/analysis_of_competing_hypotheses.csv,"Best preserves unresolved evidence posture.",No mechanism claim.

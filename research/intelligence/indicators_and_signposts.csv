@@ -1,0 +1,7 @@
+indicator_id,indicator,raises_confidence_in,lowers_confidence_in
+IND-001,Formal coroner/SAPOL confirmation of identity,Identity-linked explanations,Generic anonymous-spy framing
+IND-002,Recoverable Webb travel/employment/family/court records,Ordinary-life/personal-context models,Pure espionage framing
+IND-003,New evidence for administered poison,Homicide or suicide depending pathway,Natural-death model
+IND-004,Operational proof for Rubaiyat/code use,Espionage/documentary-code model,Ordinary/documentary ambiguity model
+IND-005,Strong proof body was moved,Homicide/staging models,Simple beach-death scenario
+IND-006,Named intelligence-file hit,Espionage hypothesis,Ordinary-life explanations

@@ -1,0 +1,228 @@
+xref_id,source_type,source_id,target_type,target_id,relationship,notes
+XREF-0001,Witness,WIT-0001,Event,CHR-0006,describes,Witness index event linkage.
+XREF-0002,Witness,WIT-0001,Event,CHR-0009,describes,Witness index event linkage.
+XREF-0003,Witness,WIT-0001,Evidence,EV-0014,mentions,Witness index evidence linkage.
+XREF-0004,Witness,WIT-0001,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0005,Witness,WIT-0002,Event,CHR-0009,describes,Witness index event linkage.
+XREF-0006,Witness,WIT-0002,Event,CHR-0011,describes,Witness index event linkage.
+XREF-0007,Witness,WIT-0002,Event,CHR-0012,describes,Witness index event linkage.
+XREF-0008,Witness,WIT-0002,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0009,Witness,WIT-0002,Evidence,EV-0012,mentions,Witness index evidence linkage.
+XREF-0010,Witness,WIT-0002,Evidence,EV-0014,mentions,Witness index evidence linkage.
+XREF-0011,Witness,WIT-0002,Evidence,EV-0008,mentions,Witness index evidence linkage.
+XREF-0012,Witness,WIT-0002,Evidence,EV-0009,mentions,Witness index evidence linkage.
+XREF-0013,Witness,WIT-0002,Evidence,EV-0010,mentions,Witness index evidence linkage.
+XREF-0014,Witness,WIT-0002,Evidence,EV-0011,mentions,Witness index evidence linkage.
+XREF-0015,Witness,WIT-0003,Event,CHR-0004,describes,Witness index event linkage.
+XREF-0016,Witness,WIT-0003,Evidence,EV-0009,mentions,Witness index evidence linkage.
+XREF-0017,Witness,WIT-0004,Event,CHR-0004,describes,Witness index event linkage.
+XREF-0018,Witness,WIT-0004,Evidence,EV-0009,mentions,Witness index evidence linkage.
+XREF-0019,Witness,WIT-0005,Event,CHR-0019,describes,Witness index event linkage.
+XREF-0020,Witness,WIT-0005,Evidence,EV-0007,mentions,Witness index evidence linkage.
+XREF-0021,Witness,WIT-0005,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0022,Witness,WIT-0006,Event,CHR-0007,describes,Witness index event linkage.
+XREF-0023,Witness,WIT-0006,Evidence,EV-0014,mentions,Witness index evidence linkage.
+XREF-0024,Witness,WIT-0007,Event,CHR-0019,describes,Witness index event linkage.
+XREF-0025,Witness,WIT-0007,Event,CHR-0014,describes,Witness index event linkage.
+XREF-0026,Witness,WIT-0007,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0027,Witness,WIT-0007,Evidence,EV-0016,mentions,Witness index evidence linkage.
+XREF-0028,Witness,WIT-0007,Evidence,EV-0017,mentions,Witness index evidence linkage.
+XREF-0029,Witness,WIT-0008,Event,CHR-0013,describes,Witness index event linkage.
+XREF-0030,Witness,WIT-0008,Event,CHR-0014,describes,Witness index event linkage.
+XREF-0031,Witness,WIT-0008,Evidence,EV-0017,mentions,Witness index evidence linkage.
+XREF-0032,Witness,WIT-0009,Event,CHR-0007,describes,Witness index event linkage.
+XREF-0033,Witness,WIT-0009,Evidence,EV-0014,mentions,Witness index evidence linkage.
+XREF-0034,Witness,WIT-0010,Event,CHR-0017,describes,Witness index event linkage.
+XREF-0035,Witness,WIT-0010,Evidence,EV-0003,mentions,Witness index evidence linkage.
+XREF-0036,Witness,WIT-0011,Event,CHR-0011,describes,Witness index event linkage.
+XREF-0037,Witness,WIT-0011,Event,CHR-0017,describes,Witness index event linkage.
+XREF-0038,Witness,WIT-0011,Event,CHR-0018,describes,Witness index event linkage.
+XREF-0039,Witness,WIT-0011,Evidence,EV-0001,mentions,Witness index evidence linkage.
+XREF-0040,Witness,WIT-0011,Evidence,EV-0003,mentions,Witness index evidence linkage.
+XREF-0041,Witness,WIT-0011,Evidence,EV-0004,mentions,Witness index evidence linkage.
+XREF-0042,Witness,WIT-0011,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0043,Witness,WIT-0011,Evidence,EV-0008,mentions,Witness index evidence linkage.
+XREF-0044,Witness,WIT-0011,Evidence,EV-0009,mentions,Witness index evidence linkage.
+XREF-0045,Witness,WIT-0011,Evidence,EV-0010,mentions,Witness index evidence linkage.
+XREF-0046,Witness,WIT-0011,Evidence,EV-0011,mentions,Witness index evidence linkage.
+XREF-0047,Witness,WIT-0011,Evidence,EV-0012,mentions,Witness index evidence linkage.
+XREF-0048,Witness,WIT-0011,Evidence,EV-0013,mentions,Witness index evidence linkage.
+XREF-0049,Witness,WIT-0011,Evidence,EV-0015,mentions,Witness index evidence linkage.
+XREF-0050,Witness,WIT-0012,Event,CHR-0019,describes,Witness index event linkage.
+XREF-0051,Witness,WIT-0012,Evidence,EV-0015,mentions,Witness index evidence linkage.
+XREF-0052,Witness,WIT-0012,Evidence,EV-0001,mentions,Witness index evidence linkage.
+XREF-0053,Witness,WIT-0012,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0054,Witness,WIT-0013,Event,CHR-0002,describes,Witness index event linkage.
+XREF-0055,Witness,WIT-0013,Event,CHR-0003,describes,Witness index event linkage.
+XREF-0056,Witness,WIT-0013,Evidence,EV-0008,mentions,Witness index evidence linkage.
+XREF-0057,Witness,WIT-0014,Event,CHR-0015,describes,Witness index event linkage.
+XREF-0058,Witness,WIT-0014,Event,CHR-0016,describes,Witness index event linkage.
+XREF-0059,Witness,WIT-0014,Event,CHR-0018,describes,Witness index event linkage.
+XREF-0060,Witness,WIT-0014,Evidence,EV-0001,mentions,Witness index evidence linkage.
+XREF-0061,Witness,WIT-0014,Evidence,EV-0002,mentions,Witness index evidence linkage.
+XREF-0062,Witness,WIT-0014,Evidence,EV-0003,mentions,Witness index evidence linkage.
+XREF-0063,Witness,WIT-0014,Evidence,EV-0004,mentions,Witness index evidence linkage.
+XREF-0064,Witness,WIT-0014,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0065,Witness,WIT-0015,Event,CHR-0002,describes,Witness index event linkage.
+XREF-0066,Witness,WIT-0015,Event,CHR-0003,describes,Witness index event linkage.
+XREF-0067,Witness,WIT-0015,Evidence,EV-0008,mentions,Witness index evidence linkage.
+XREF-0068,Witness,WIT-0016,Event,CHR-0015,describes,Witness index event linkage.
+XREF-0069,Witness,WIT-0016,Event,CHR-0018,describes,Witness index event linkage.
+XREF-0070,Witness,WIT-0016,Event,CHR-0020,describes,Witness index event linkage.
+XREF-0071,Witness,WIT-0016,Evidence,EV-0001,mentions,Witness index evidence linkage.
+XREF-0072,Witness,WIT-0016,Evidence,EV-0003,mentions,Witness index evidence linkage.
+XREF-0073,Witness,WIT-0016,Evidence,EV-0004,mentions,Witness index evidence linkage.
+XREF-0074,Witness,WIT-0016,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0075,Witness,WIT-0016,Evidence,EV-0017,mentions,Witness index evidence linkage.
+XREF-0076,Witness,WIT-0017,Event,CHR-0020,describes,Witness index event linkage.
+XREF-0077,Witness,WIT-0017,Evidence,EV-0017,mentions,Witness index evidence linkage.
+XREF-0078,Witness,WIT-0018,Event,CHR-0008,describes,Witness index event linkage.
+XREF-0079,Witness,WIT-0018,Event,CHR-0010,describes,Witness index event linkage.
+XREF-0080,Witness,WIT-0018,Evidence,EV-0005,mentions,Witness index evidence linkage.
+XREF-0081,Document,DOC-0001,Exhibit,EXH-0001,contains_reference,"Pages pp.21,75."
+XREF-0082,Exhibit,EXH-0001,Event,CHR-0002,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0083,Exhibit,EXH-0001,Event,CHR-0003,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0084,Exhibit,EXH-0001,Event,CHR-0011,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0085,Exhibit,EXH-0001,Evidence,EV-0008,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0086,Document,DOC-0001,Exhibit,EXH-0002,contains_reference,"Pages pp.21,23,25."
+XREF-0087,Exhibit,EXH-0002,Event,CHR-0004,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0088,Exhibit,EXH-0002,Event,CHR-0011,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0089,Exhibit,EXH-0002,Evidence,EV-0009,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0090,Document,DOC-0001,Exhibit,EXH-0003,contains_reference,Pages p.21.
+XREF-0091,Exhibit,EXH-0003,Event,CHR-0011,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0092,Exhibit,EXH-0003,Evidence,EV-0012,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0093,Exhibit,EXH-0003,Evidence,EV-0013,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0094,Exhibit,EXH-0003,Evidence,EV-0010,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0095,Exhibit,EXH-0003,Evidence,EV-0011,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0096,Document,DOC-0001,Exhibit,EXH-0004,contains_reference,"Pages pp.35,39."
+XREF-0097,Exhibit,EXH-0004,Event,CHR-0019,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0098,Exhibit,EXH-0004,Evidence,EV-0016,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0099,Document,DOC-0001,Exhibit,EXH-0005,contains_reference,Pages p.39.
+XREF-0100,Document,DOC-0001,Exhibit,EXH-0006,contains_reference,"Pages pp.53,57."
+XREF-0101,Exhibit,EXH-0006,Event,CHR-0017,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0102,Exhibit,EXH-0006,Evidence,EV-0003,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0103,Document,DOC-0001,Exhibit,EXH-0007,contains_reference,Pages p.63.
+XREF-0104,Exhibit,EXH-0007,Event,CHR-0019,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0105,Exhibit,EXH-0007,Evidence,EV-0005,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0106,Document,DOC-0001,Exhibit,EXH-0008,contains_reference,"Pages pp.63,67."
+XREF-0107,Exhibit,EXH-0008,Event,CHR-0019,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0108,Exhibit,EXH-0008,Evidence,EV-0015,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0109,Document,DOC-0001,Exhibit,EXH-0009,contains_reference,"Pages pp.5,57,71,73,81."
+XREF-0110,Exhibit,EXH-0009,Event,CHR-0015,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0111,Exhibit,EXH-0009,Event,CHR-0016,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0112,Exhibit,EXH-0009,Evidence,EV-0001,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0113,Document,DOC-0001,Exhibit,EXH-0010,contains_reference,Pages p.75.
+XREF-0114,Exhibit,EXH-0010,Evidence,EV-0003,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0115,Document,DOC-0001,Exhibit,EXH-0011,contains_reference,Pages p.77.
+XREF-0116,Exhibit,EXH-0011,Event,CHR-0011,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0117,Exhibit,EXH-0011,Evidence,EV-0005,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0118,Document,DOC-0001,Exhibit,EXH-0012,contains_reference,Pages p.77.
+XREF-0119,Exhibit,EXH-0012,Event,CHR-0017,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0120,Exhibit,EXH-0012,Event,CHR-0018,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0121,Exhibit,EXH-0012,Evidence,EV-0003,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0122,Document,DOC-0001,Exhibit,EXH-0013,contains_reference,"Pages pp.27,77."
+XREF-0123,Exhibit,EXH-0013,Event,CHR-0019,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0124,Exhibit,EXH-0013,Evidence,EV-0007,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0125,Document,DOC-0001,Exhibit,EXH-0014,contains_reference,Pages p.47.
+XREF-0126,Exhibit,EXH-0014,Event,CHR-0013,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0127,Exhibit,EXH-0014,Event,CHR-0014,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0128,Exhibit,EXH-0014,Evidence,EV-0017,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0129,Document,DOC-0001,Exhibit,EXH-0015,contains_reference,"Pages pp.5,71,73."
+XREF-0130,Exhibit,EXH-0015,Event,CHR-0016,relates_to,Exhibit-event relationship from chronology/index.
+XREF-0131,Exhibit,EXH-0015,Evidence,EV-0002,maps_to_existing_evidence,Existing Mission 2 evidence ID mapping.
+XREF-0132,DocumentPage,DOC-0001:p.37,Claim,PA2025-001,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0133,DocumentPage,DOC-0001:p.37,Claim,PA2025-002,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0134,DocumentPage,DOC-0001:p.38,Claim,PA2025-001,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0135,DocumentPage,DOC-0001:p.38,Claim,PA2025-002,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0136,DocumentPage,DOC-0001:p.39,Claim,PA2025-001,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0137,DocumentPage,DOC-0001:p.39,Claim,PA2025-002,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0138,DocumentPage,DOC-0001:p.40,Claim,PA2025-001,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0139,DocumentPage,DOC-0001:p.41,Claim,PA2025-001,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0140,DocumentPage,DOC-0001:p.7,Claim,PA2025-012,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0141,DocumentPage,DOC-0001:p.7,Claim,PA2025-003,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0142,DocumentPage,DOC-0001:p.5,Claim,PA2025-038,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0143,DocumentPage,DOC-0001:p.5,Claim,PA2025-011,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0144,DocumentPage,DOC-0001:p.5,Claim,PA2025-044,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0145,DocumentPage,DOC-0001:p.5,Claim,PA2025-064,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0146,DocumentPage,DOC-0001:p.5,Claim,PA2025-043,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0147,DocumentPage,DOC-0001:p.5,Claim,PA2025-042,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0148,DocumentPage,DOC-0001:p.5,Claim,PA2025-037,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0149,DocumentPage,DOC-0001:p.5,Claim,PA2025-063,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0150,DocumentPage,DOC-0001:p.5,Claim,PA2025-065,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0151,DocumentPage,DOC-0001:p.5,Claim,PA2025-019,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0152,DocumentPage,DOC-0001:p.5,Claim,PA2025-004,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0153,DocumentPage,DOC-0001:p.47,Claim,PA2025-006,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0154,DocumentPage,DOC-0001:p.47,Claim,PA2025-007,supports_or_clarifies,Mapped from verification matrix page reference.
+XREF-0155,DocumentPage,DOC-0001:p.5,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0156,DocumentPage,DOC-0001:p.5,Person,Dr Bennett / John Barkly Bennett,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0157,DocumentPage,DOC-0001:p.7,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0158,DocumentPage,DOC-0001:p.7,Person,John Matthew Dwyer,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0159,DocumentPage,DOC-0001:p.9,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0160,DocumentPage,DOC-0001:p.9,Person,Cedric Stanton Hicks,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0161,DocumentPage,DOC-0001:p.11,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0162,DocumentPage,DOC-0001:p.13,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0163,DocumentPage,DOC-0001:p.17,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0164,DocumentPage,DOC-0001:p.17,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0165,DocumentPage,DOC-0001:p.17,Person,John Moss,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0166,DocumentPage,DOC-0001:p.19,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0167,DocumentPage,DOC-0001:p.19,Person,Dr Bennett / John Barkly Bennett,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0168,DocumentPage,DOC-0001:p.19,Person,John Moss,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0169,DocumentPage,DOC-0001:p.21,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0170,DocumentPage,DOC-0001:p.21,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0171,DocumentPage,DOC-0001:p.23,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0172,DocumentPage,DOC-0001:p.23,Person,Edmund Leslie Hall,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0173,DocumentPage,DOC-0001:p.23,Person,Arthur Anzac Holdernesse,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0174,DocumentPage,DOC-0001:p.23,Person,Conductor Holdernesse,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0175,DocumentPage,DOC-0001:p.25,Person,Edmund Leslie Hall,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0176,DocumentPage,DOC-0001:p.25,Person,Arthur Anzac Holdernesse,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0177,DocumentPage,DOC-0001:p.25,Person,Conductor Holdernesse,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0178,DocumentPage,DOC-0001:p.27,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0179,DocumentPage,DOC-0001:p.27,Person,Paul Francis Lawson,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0180,DocumentPage,DOC-0001:p.29,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0181,DocumentPage,DOC-0001:p.29,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0182,DocumentPage,DOC-0001:p.31,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0183,DocumentPage,DOC-0001:p.31,Person,Gordon Kenneth Strapps,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0184,DocumentPage,DOC-0001:p.31,Person,Olive Constance Neill,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0185,DocumentPage,DOC-0001:p.31,Person,Leonard Douglas Brown,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0186,DocumentPage,DOC-0001:p.33,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0187,DocumentPage,DOC-0001:p.35,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0188,DocumentPage,DOC-0001:p.35,Person,John Matthew Dwyer,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0189,DocumentPage,DOC-0001:p.35,Person,P.C. Sutherland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0190,DocumentPage,DOC-0001:p.41,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0191,DocumentPage,DOC-0001:p.47,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0192,DocumentPage,DOC-0001:p.47,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0193,DocumentPage,DOC-0001:p.57,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0194,DocumentPage,DOC-0001:p.57,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0195,DocumentPage,DOC-0001:p.57,Person,Raymond Lionel Leane,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0196,DocumentPage,DOC-0001:p.59,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0197,DocumentPage,DOC-0001:p.59,Person,Leonard Douglas Brown,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0198,DocumentPage,DOC-0001:p.59,Person,Hugh Pozza,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0199,DocumentPage,DOC-0001:p.59,Person,Mr Gray,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0200,DocumentPage,DOC-0001:p.61,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0201,DocumentPage,DOC-0001:p.63,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0202,DocumentPage,DOC-0001:p.63,Person,Patrick James Durham,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0203,DocumentPage,DOC-0001:p.63,Person,M.C. Knight,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0204,DocumentPage,DOC-0001:p.65,Person,William West,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0205,DocumentPage,DOC-0001:p.67,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0206,DocumentPage,DOC-0001:p.67,Person,Raymond Lionel Leane,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0207,DocumentPage,DOC-0001:p.71,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0208,DocumentPage,DOC-0001:p.71,Person,Raymond Lionel Leane,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0209,DocumentPage,DOC-0001:p.71,Person,Leonard Douglas Brown,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0210,DocumentPage,DOC-0001:p.73,Person,Mr Whiting,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0211,DocumentPage,DOC-0001:p.75,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0212,DocumentPage,DOC-0001:p.75,Person,Douglas George Townsend,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0213,DocumentPage,DOC-0001:p.77,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0214,DocumentPage,DOC-0001:p.79,Person,Thomas Erskine Cleland / Professor Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0215,DocumentPage,DOC-0001:p.79,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0216,DocumentPage,DOC-0001:p.79,Person,John Burton Cleland,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0217,DocumentPage,DOC-0001:p.81,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0218,DocumentPage,DOC-0001:p.81,Person,John Matthew Dwyer,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0219,DocumentPage,DOC-0001:p.83,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0220,DocumentPage,DOC-0001:p.83,Person,Robert James Cowan,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0221,DocumentPage,DOC-0001:p.85,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0222,DocumentPage,DOC-0001:p.91,Person,John Matthew Dwyer,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0223,DocumentPage,DOC-0001:p.93,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0224,DocumentPage,DOC-0001:p.93,Person,Dr Bennett / John Barkly Bennett,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0225,DocumentPage,DOC-0001:p.97,Person,Robert James Cowan,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0226,DocumentPage,DOC-0001:p.99,Person,Unknown deceased man,mentions,OCR-derived mention; verify manually for critical use.
+XREF-0227,DocumentPage,DOC-0001:p.99,Person,John Matthew Dwyer,mentions,OCR-derived mention; verify manually for critical use.

@@ -1,0 +1,7 @@
+capability_id,capability,assessment,evidence_basis,limitations,confidence
+CAP-001,Identity removal / thin records,"Paper-based, fragmented identity systems could allow non-identification without implying espionage.",Nationality/passport context in Mission 10 report,Does not distinguish ordinary anonymity from tradecraft.,High context / Low direct case proof
+CAP-002,Clothing label removal,Physical capability existed and labels were absent/removed in case evidence.,Mission 4/9 evidence and Mission 10 caution,"Actor, timing and intent unknown.",Moderate evidence / Low diagnosticity
+CAP-003,Difficult-to-detect poison,Historically plausible because mid-century tests were targeted and limited.,Mission 8 toxicology and Mission 10 forensic context,No specific poison detected.,High context / Moderate case relevance
+CAP-004,Book or literary object as code medium,Historically plausible but not diagnostic.,Rubaiyat/slip/code evidence cluster,"No accepted plaintext, key or operational context.",Moderate artefact evidence / Low interpretation
+CAP-005,Body deposition or scene staging,Possible in principle and relevant to place-of-death uncertainty.,Scene reconstruction and Mission 10 capability framing,No decisive transfer evidence.,Moderate relevance / Low proof
+CAP-006,Intelligence activity in Australia,Cold War/security context was real.,Mission 10 ASIO/Woomera/Venona context,No case-specific intelligence record acquired.,High context / Very Low direct case proof

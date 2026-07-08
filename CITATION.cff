@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Somerton Man: A Multidisciplinary Forensic and Intelligence Assessment"
+message: "If you use this research archive, cite the repository and the specific release consulted."
+type: dataset
+authors:
+  - name: "Mohnish"
+repository-code: "https://github.com/REPLACE-OWNER/REPLACE-REPO"
+abstract: "Evidence-controlled public research archive and LaTeX dossier assessing the Somerton Man case through forensic, historical, and intelligence-analysis methods."
+license: "CC-BY-4.0"
+version: "0.1.0-foundation"
+date-released: "2026-07-07"
+

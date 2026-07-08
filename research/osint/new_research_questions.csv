@@ -1,0 +1,8 @@
+question_id,question,priority,related_gap
+M11-Q-0001,Has the South Australian coroner formally determined the Somerton Man's identity?,Critical,M11-IG-0001
+M11-Q-0002,Do official body-remains DNA results match the death-mask hair result?,Critical,M11-IG-0002
+M11-Q-0003,"Can the Webb divorce file establish last known contact, threats, self-harm claims or location?",High,M11-IG-0003
+M11-Q-0004,Can the Keane clothing link be upgraded from inference to documented transfer?,Medium,M11-IG-0003
+M11-Q-0005,Did police paper/print tests conclusively associate the slip with the recovered Rubaiyat?,High,M11-IG-0004
+M11-Q-0006,Was any isotope analysis ever formally published or archived?,Medium,M11-IG-0006
+M11-Q-0007,Which previous claims should be downgraded if Webb is officially confirmed?,High,M11-IG-0001

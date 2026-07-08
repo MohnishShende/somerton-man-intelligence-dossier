@@ -1,0 +1,9 @@
+location_id,name,role_or_relevance,source_origin,verification_status,notes
+L-0001,"Somerton Beach","Body discovery and scene location",internal_prior_assessment,unverified,
+L-0002,"Jessica Thomson residence","Contact/location claim",internal_prior_assessment,unverified,"Exact address requires careful privacy and source review."
+L-0003,"Adelaide railway station","Transport timeline claim",internal_prior_assessment,unverified,
+L-0004,"Henley Beach","Transport ticket claim",internal_prior_assessment,unverified,
+L-0005,"Melbourne","Biographical and travel context",internal_prior_assessment,unverified,
+L-0006,"Woomera Rocket Range","Defense-context location",internal_prior_assessment,unverified,
+L-0007,"Maralinga","Atomic-testing context location",internal_prior_assessment,unverified,"Chronology must be checked before relevance is asserted."
+

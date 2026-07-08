@@ -1,0 +1,30 @@
+map_id,event_id,document_id_or_source_id,page_reference,claim_ids,source_role,notes
+ESM-0001,CHR-0002,DOC-0001,p.75,PA2025-019,supporting,"The inquest evidence supports the shift window, not the purchaser identity."
+ESM-0002,CHR-0003,DOC-0001,p.75,PA2025-019,supporting,Townsend said he issued the ticket on 30 November and could not say what time.
+ESM-0003,CHR-0004,DOC-0001,"pp.5,23",PA2025-063; PA2025-066,supporting,Hall identified the ticket by punch mark and serial number; the ticket does not identify the holder.
+ESM-0004,CHR-0005,DOC-0001,p.7,PA2025-063,supporting,"This is an absence-of-reporting statement within the inquest, not proof of absence."
+ESM-0005,CHR-0006,DOC-0001,p.5,PA2025-063; PA2025-042,supporting,The coroner cautioned that the witnesses did not identify the face/body as the deceased.
+ESM-0006,CHR-0007,DOC-0001,p.5,PA2025-063; PA2025-042,supporting,The inquest records the observation but not a confirmed identity of the man seen.
+ESM-0007,CHR-0008,DOC-0001,p.5,PA2025-064,supporting,Time is a medical estimate reported in coroner remarks; place of death was not determined.
+ESM-0008,CHR-0009,DOC-0001,"DOC-0001 pp.5,7",PA2025-064,supporting,Core chronology anchor; official custodian copy still recommended for final publication.
+ESM-0009,CHR-0009,DOC-0003,"DOC-0001 pp.5,7",PA2025-064,supporting,Core chronology anchor; official custodian copy still recommended for final publication.
+ESM-0010,CHR-0010,DOC-0001,p.5,PA2025-064,supporting,Examination time appears in coroner remarks; exact examination location should be checked against full witness deposition.
+ESM-0011,CHR-0011,DOC-0001,"pp.5,21",PA2025-011; PA2025-019; PA2025-043,supporting,Initial search inventory is supported; exact search time is not established in this chronology pass.
+ESM-0012,CHR-0012,DOC-0001,p.21,PA2025-064,supporting,Transport timing not specified in extracted passage.
+ESM-0013,CHR-0013,DOC-0001,p.47,PA2025-006; PA2025-007,supporting,Specimens and receipt date are supported by Cowan deposition.
+ESM-0014,CHR-0014,DOC-0001,p.47,PA2025-006; PA2025-007; PA2025-012,supporting,"Supports negative common-poison testing, not absence of all possible poisons."
+ESM-0015,CHR-0015,DOC-0001,"pp.5,81",PA2025-043; PA2025-065,supporting,Source states it was not found for some time afterwards; exact discovery date remains unresolved.
+ESM-0016,CHR-0016,DOC-0001,p.5,PA2025-044; PA2025-065,supporting,The coroner states satisfaction that the paper was torn from such a copy; book-recovery chronology remains unresolved.
+ESM-0017,CHR-0017,DOC-0001,"pp.5,7",PA2025-066,supporting,The coroner describes internal evidence connecting it to the deceased or his death; exact date and custody path need property records.
+ESM-0018,CHR-0018,DOC-0001,p.7,PA2025-038,supporting,"Connection is supported in coroner remarks, but exact property inventory and custody remain gaps."
+ESM-0019,CHR-0019,DOC-0001,"DOC-0001 metadata; pp.5-9,37-47,75,81,85",PA2025-001; PA2025-002; PA2025-003; PA2025-006; PA2025-007; PA2025-012; PA2025-063; PA2025-064; PA2025-065,supporting,Proceeding date comes from primary-document inventory/source citation; official copy comparison still recommended.
+ESM-0020,CHR-0020,DOC-0001,"pp.7,9",PA2025-012,supporting,"This records the status of the inquest finding, not a final cause-of-death conclusion."
+ESM-0021,CHR-0021,DOC-0002,DOC-0002 metadata; Mission 3 inventory,PA2025-012; PA2025-065,supporting,The document was acquired as a later reproduction but OCR is unavailable; content requires visual review and official access status remains restricted.
+ESM-0022,CHR-0021,SRC-0002,DOC-0002 metadata; Mission 3 inventory,PA2025-012; PA2025-065,supporting,The document was acquired as a later reproduction but OCR is unavailable; content requires visual review and official access status remains restricted.
+ESM-0023,CHR-0022,DOC-0003,DOC-0003 p.1,PA2025-012; PA2025-064,supporting,"This is a later certified copy event, not the original death event."
+ESM-0024,CHR-0024,DOC-0001,p.1 OCR/front matter,N/A,supporting,"This is an archival-processing event visible in the reproduction, not a case-investigation event."
+ESM-0025,CHR-0025,SRC-0008,N/A,PA2025-023,lead only,Retained as a later-period placeholder only; requires SAPOL/FSSA primary release.
+ESM-0026,CHR-0025,SRC-0009,N/A,PA2025-023,lead only,Retained as a later-period placeholder only; requires SAPOL/FSSA primary release.
+ESM-0027,CHR-0025,SRC-0010 listed in source register but not acquired primary archive,N/A,PA2025-023,lead only,Retained as a later-period placeholder only; requires SAPOL/FSSA primary release.
+ESM-0028,CHR-0026,SRC-0011 listed as pending source,N/A,PA2025-024; PA2025-025; PA2025-030,lead only,Retained as a later-period placeholder only; not a verified identity event.
+ESM-0029,CHR-0026,no acquired DNA report,N/A,PA2025-024; PA2025-025; PA2025-030,lead only,Retained as a later-period placeholder only; not a verified identity event.

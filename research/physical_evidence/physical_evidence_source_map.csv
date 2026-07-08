@@ -1,0 +1,34 @@
+map_id,physical_evidence_id,document_id,page_reference,witness_or_source,evidence_relation,mapped_content,confidence
+PSM-0001,PE-0001,DOC-0001,"pp.5,19",Coroner; John Moss,scene/body,"Body found near seawall, position and initial movement to hospital/morgue.",High
+PSM-0002,PE-0001,DOC-0001,"pp.35,93",Dwyer; Bennett,medical/body,Postmortem/examination references to body.,High
+PSM-0003,PE-0002,DOC-0001,"pp.5,17,19,21",Coroner; beach witness; Moss,scene object,Partly smoked cigarette observed near body; no cigarette in raised hand previous evening.,Moderate
+PSM-0004,PE-0003,DOC-0001,"pp.21,57,77,79,81",Moss; Leane; Cleland,clothing,"Body clothing searched, produced, exhibited and compared.",High
+PSM-0005,PE-0007,DOC-0001,"pp.5,7,59,81",Coroner; Leane; Cleland,labels,Tags/labels missing or removed; recency uncertain.,Moderate
+PSM-0006,PE-0008,DOC-0001,"pp.5,21,75",Moss; Townsend,ticket,Rail ticket found on body and issue window identified.,High
+PSM-0007,PE-0009,DOC-0001,"pp.5,21,23,25",Moss; Hall; Holdernesse,ticket,Bus ticket found and tied to route/journal; conductor had no recollection.,High
+PSM-0008,PE-0010,DOC-0001,"pp.21,57",Moss; Leane,body property,Cigarette packet and contents described.,Moderate
+PSM-0009,PE-0011,DOC-0001,"pp.21,57",Moss; Leane,body property,Matches box described.,Moderate
+PSM-0010,PE-0012,DOC-0001,"pp.5,21,57",Coroner; Moss; Leane,body property,Combs found on body.,Moderate
+PSM-0011,PE-0013,DOC-0001,"pp.5,21,57",Coroner; Moss; Leane,body property,Chewing gum packet found on body.,Moderate
+PSM-0012,PE-0014,DOC-0001,"pp.5,57,71,73,81",Coroner; Leane; Brown; Cleland,paper slip,"Tamam Shud slip, fob pocket, paper/type inquiry and exhibit marking.",High
+PSM-0013,PE-0015,DOC-0001,"pp.5,71,73",Coroner; Brown,Rubaiyat,Reference-copy comparison and meaning inquiry.,Moderate
+PSM-0014,PE-0016,DOC-0012,file,Abbott archive digital file,code image,Preserved code image; original custody unresolved.,Moderate
+PSM-0015,PE-0017,DOC-0001,"pp.53,57,75,77",North; Leane; coroner,suitcase,"Suitcase ticket, police possession, photos and exhibit C.16.",High
+PSM-0016,PE-0018,DOC-0001,"pp.53,57",North; Leane,luggage ticket,Ticket no. 52703 and cloakroom issue context.,High
+PSM-0017,PE-0019,DOC-0001,"pp.57,59,61,79",Leane; Cleland,suitcase contents,Clothing/textile inventory and fit/thread comparisons.,Moderate
+PSM-0018,PE-0020,DOC-0001,"pp.57,59,61",Leane,suitcase contents,Tools/toiletries/personal articles inventory.,Moderate
+PSM-0019,PE-0021,DOC-0001,p.59,Leane,pencils,Six pencils and H-type/drafting mention.,Moderate
+PSM-0020,PE-0022,DOC-0001,"pp.7,59,61,79",Coroner; Leane; Cleland,fibres/thread,Thread used on body clothing and suitcase items; microscopy comparison.,High
+PSM-0021,PE-0023,DOC-0001,"pp.17,19,37,71,81,99",Witnesses; Dwyer; Brown; Cleland; Hicks,sand,Sand disturbance and sand in hair/clothing observations.,Moderate
+PSM-0022,PE-0024,DOC-0001,"pp.79,81",Cleland,vegetation,Barley grass/seed observation with low-weight caveat.,Low
+PSM-0023,PE-0025,DOC-0001,"pp.63,67",Durham; Leane,fingerprints,"Fingerprinting, circulation and no identification.",High
+PSM-0024,PE-0025,DOC-0016,p.1,Fingerprint chart,fingerprints,Preserved fingerprint chart reproduction.,High
+PSM-0025,PE-0026,DOC-0001,"pp.35,39,41,67",Dwyer; Leane,teeth,Missing teeth and dental chart exhibit.,High
+PSM-0026,PE-0026,DOC-0017,p.1,Dental chart,teeth,Preserved dental chart reproduction.,High
+PSM-0027,PE-0027,DOC-0001,"pp.27,77",Lawson; Leane,death mask/bust,Cast creation and exhibit C.17 custody order.,High
+PSM-0028,PE-0029,DOC-0001,"pp.39,47,49",Dwyer; Cowan,biological samples,Specimens retained/sent/analysed.,High
+PSM-0029,PE-0030,DOC-0001,p.75,Inquest exhibit record,photographs,Case photographs marked C.10-C.14.,Moderate
+PSM-0030,PE-0031,DOC-0001,p.63,Durham,photographs,Body photographs C.5-C.8 and circulation.,High
+PSM-0031,PE-0032,DOC-0001,"pp.15,17,19,21,51,67",Witnesses; Leane,environment,Open/public beach and weather context.,Moderate
+PSM-0032,PE-0033,DOC-0001,p.59,Leane,cash,2s 6d in trousers pocket per OCR.,Low
+PSM-0033,PE-0034,DOC-0001,"pp.59,61",Leane,stencil materials,"Knife, zinc, stencil brush and Cowan residue test.",Moderate

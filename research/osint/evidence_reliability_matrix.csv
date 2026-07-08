@@ -1,0 +1,7 @@
+reliability_id,source_class,examples,source_ids,reliability,limitations,use_rule
+M11-REL-0001,Official primary/custodial records,SAPOL/FSSA releases; State Records SA holdings,M11-SRC-0002; M11-SRC-0015,High,Official but may be incomplete or point-in-time.,"Use for event existence, custody and access status."
+M11-REL-0002,Contemporary legal notices,Trove divorce advertisement,M11-SRC-0014,High,Public notice only; does not include full court file.,"Use as fact of proceeding/notice, not full marital history."
+M11-REL-0003,Contemporary newspapers,"The News, The Mail, The Advertiser via Trove",M11-SRC-0010; M11-SRC-0011; M11-SRC-0012; M11-SRC-0013,Medium-High,May contain OCR errors and press simplification.,Use as contemporary leads; confirm against inquest/police files.
+M11-REL-0004,Researcher/lab participant accounts,Abbott/Fitzpatrick/Astrea reporting,M11-SRC-0003; M11-SRC-0004; M11-SRC-0009,Medium,Not official coroner finding; limited public methods.,Use as high-value lead requiring official/lab documentation.
+M11-REL-0005,High-quality reporting,ABC; Smithsonian,M11-SRC-0001; M11-SRC-0005; M11-SRC-0006; M11-SRC-0007; M11-SRC-0008; M11-SRC-0016,Medium,May blend source facts with expert inference.,"Use for leads, direct quotes and current status; trace back to original records."
+M11-REL-0006,Blogs/forums/Academia self-posts,"Cipher Mysteries, Medium, Academia critical draft",Not promoted to source register except as leads,Low-Medium,Often valuable but not primary; may mix evidence and argument.,Use only to locate records or map conflicts.
