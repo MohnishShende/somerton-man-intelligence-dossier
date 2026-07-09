@@ -1,224 +1,119 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Somerton Man Intelligence Dossier Banner" width="100%">
-</p>
+# Somerton Man Intelligence Dossier
 
-<h1 align="center">🕵️ Somerton Man Intelligence Dossier</h1>
+The Somerton Man Intelligence Dossier is a version-controlled scholarly research repository documenting an evidence-based historical, forensic, and intelligence-style assessment of the Somerton Man case.
 
-<p align="center">
-<b>An Evidence-Based Historical and Intelligence Assessment of the Somerton Man Case</b>
-</p>
+This repository contains the publication-ready LaTeX manuscript, the supporting research architecture used to produce it, and the editorial and governance records needed to audit, reproduce, and review the work.
 
-<p align="center">
+## Current Status
 
-<a href="https://github.com/MohnishShende/somerton-man-intelligence-dossier/releases/latest">
-<img src="https://img.shields.io/badge/🚀_Latest_Release-v1.0.0-success?style=for-the-badge" alt="Latest Release">
-</a>
+- Edition of record: `v1.1.0`
+- Edition name: `Editorial & Design Edition`
+- Release date: `2026-07-09`
+- Status: `Content frozen`
+- External review: `Pending`
 
-<a href="https://github.com/MohnishShende/somerton-man-intelligence-dossier/releases/download/v1.0.0/Somerton_Man_Intelligence_Dossier_v1.0.0.pdf">
-<img src="https://img.shields.io/badge/📄_Download_PDF-blue?style=for-the-badge" alt="Download PDF">
-</a>
+Version `v1.1.0` is the current edition of record. The manuscript's content, evidence, conclusions, confidence assessments, chronology, and methodology are frozen pending external review or a qualifying revision trigger.
 
-<a href="https://github.com/MohnishShende/somerton-man-intelligence-dossier/archive/refs/tags/v1.0.0.zip">
-<img src="https://img.shields.io/badge/📦_Download_Source-darkgreen?style=for-the-badge" alt="Download Source">
-</a>
+## What This Project Is
 
-</p>
+The repository is intended to preserve:
 
-<p align="center">
+- a publication-ready scholarly edition of the manuscript
+- the supporting evidence and verification framework
+- the editorial history and quality-assurance trail
+- the governance rules controlling future revision
 
-<a href="#-overview">Overview</a> •
-<a href="#-downloads">Downloads</a> •
-<a href="#-publication-statistics">Statistics</a> •
-<a href="#-methodology">Methodology</a> •
-<a href="#-repository-structure">Repository</a> •
-<a href="#-citation">Citation</a>
+It is not intended to advocate a preferred theory, promote speculation, replace primary records, or provide legal advice.
 
-</p>
-
----
-
-# 📖 Overview
-
-The **Somerton Man Intelligence Dossier** is a comprehensive, evidence-based historical and intelligence assessment of one of Australia's most enduring unidentified-person investigations.
-
-Rather than promoting a preferred theory, this project applies structured analytical techniques, forensic reasoning, historical research methods, and intelligence-analysis principles to evaluate the available evidence.
-
-The objective is **not** to declare the case solved.
-
-Instead, this dossier documents:
-
-- ✅ Established facts
-- ✅ Supported inferences
-- ✅ Competing hypotheses
-- ✅ Evidence quality
-- ✅ Confidence assessments
-- ✅ Outstanding intelligence gaps
-
-Every effort has been made to distinguish evidence from interpretation while maintaining transparency regarding evidentiary limitations.
-
----
-
-# 📥 Downloads
-
-| Download | Description |
-|-----------|-------------|
-| 📄 **[Published PDF](https://github.com/MohnishShende/somerton-man-intelligence-dossier/releases/download/v1.0.0/Somerton_Man_Intelligence_Dossier_v1.0.0.pdf)** | Complete 101-page intelligence dossier |
-| 🚀 **[Latest Release](https://github.com/MohnishShende/somerton-man-intelligence-dossier/releases/latest)** | Release notes and downloadable assets |
-| 📦 **[LaTeX Source (ZIP)](https://github.com/MohnishShende/somerton-man-intelligence-dossier/archive/refs/tags/v1.0.0.zip)** | Complete repository source code |
-| 📂 **[Browse Repository](https://github.com/MohnishShende/somerton-man-intelligence-dossier)** | Research database, manuscript, and documentation |
-
----
-
-# 📊 Publication Statistics
-
-| Metric | Value |
-|---------|------:|
-| Pages | **101** |
-| Words | **28,930** |
-| References | **64** |
-| Evidence Tables | **51** |
-| Historical Claims Reviewed | **75** |
-| Competing Hypotheses Evaluated | **6** |
-| Appendices | **8** |
-
----
-
-# 🔬 Methodology
-
-This project follows an evidence-first methodology inspired by professional historical research, forensic investigation, and intelligence analysis.
-
-Methodologies employed include:
-
-- Primary-source verification
-- Source reliability assessment
-- Evidence confidence analysis
-- Analysis of Competing Hypotheses (ACH)
-- Structured analytic techniques
-- Intelligence requirements development
-- Transparent uncertainty reporting
-- Reproducible LaTeX publication workflow
-
-No conclusion is presented beyond what the available evidence can reasonably support.
-
----
-
-# 📂 Repository Structure
+## Repository Structure
 
 ```text
-assets/             Repository graphics and screenshots
+assets/             Repository graphics and supporting visual assets
 bibliography/       BibLaTeX reference database
-documentation/      Project architecture and methodology
+documentation/      Project and release-process documentation
 evidence/           Primary and secondary source archive
-figures/            Images used throughout the dossier
-manuscript/         Complete LaTeX manuscript
-research/           Structured research database
-release/            Versioned publication releases
-verification/       Claim verification framework
+figures/            Figure assets and image material
+manuscript/         LaTeX manuscript source and compiled build output
+research/           Structured research data, registers, and publication controls
+release/            Versioned release artifacts
+tables/             Table source material used in the manuscript workflow
+verification/       Claim-verification framework
 ```
 
----
+## Key Documents
 
-# 🎯 Research Principles
+- [README.md](README.md): repository overview
+- [EDITORIAL_HISTORY.md](EDITORIAL_HISTORY.md): editorial history and revision governance
+- [RESEARCH_SCOPE.md](RESEARCH_SCOPE.md): scope, non-objectives, and repository boundaries
+- [CHANGELOG.md](CHANGELOG.md): public release summary
+- [publication_readiness_assessment_v1.1.0.md](publication_readiness_assessment_v1.1.0.md): current publication-readiness assessment
+- [visual_style_guide_v1.1.0.md](visual_style_guide_v1.1.0.md): design and presentation standards for `v1.1.0`
+- [version_1.1.0_implementation_report.md](version_1.1.0_implementation_report.md): implementation summary for the Editorial & Design Edition
+- [manuscript/main.tex](manuscript/main.tex): main LaTeX entry point
+- [manuscript/build/main.pdf](manuscript/build/main.pdf): current compiled PDF
 
-The investigation is built upon five guiding principles.
+## Building the Manuscript
 
-1. Evidence before conclusions.
-2. Transparency over certainty.
-3. Clear separation of fact, inference, and hypothesis.
-4. Explicit confidence assessments.
-5. Reproducible research.
+Build from the repository root:
 
-Where evidence is insufficient, uncertainty is documented rather than replaced with speculation.
+```sh
+make pdf
+```
 
----
+This compiles [manuscript/main.tex](manuscript/main.tex) and writes:
 
-# 🧠 Intelligence Framework
+- build output to `manuscript/build/`
+- a copied PDF to `generated_output/pdf/somerton-man-assessment.pdf`
 
-The dossier incorporates several structured intelligence methodologies commonly used within the intelligence community and analytical disciplines.
+If `biber` needs local bootstrapping on macOS, the repository includes:
 
-These include:
+```sh
+make bootstrap-biber-macos
+```
 
-- Analysis of Competing Hypotheses (ACH)
-- Evidence weighting
-- Source reliability matrices
-- Confidence assessments
-- Devil's Advocate Review
-- Intelligence requirements
-- Indicators and signposts
-- Key assumptions analysis
+To clean generated output:
 
-These techniques help minimise confirmation bias while maintaining analytical transparency.
+```sh
+make clean
+```
 
----
+## Citation Guidance
 
-# 📚 Citation
+Citation metadata is provided in [CITATION.cff](CITATION.cff).
 
-Citation metadata is provided in **CITATION.cff**.
+When citing this work, cite the specific release consulted rather than the repository in the abstract. The current edition of record is `v1.1.0`, `Editorial & Design Edition`, dated `2026-07-09`.
 
-If you reference this work, please cite the published release rather than the development repository whenever possible.
+## Revision Policy
 
----
+The repository is content frozen as of `v1.1.0`.
 
-# 📦 Releases
+Future substantive revision should occur only in response to:
 
-This project follows **Semantic Versioning**.
+- new primary evidence
+- official findings
+- demonstrable factual correction
+- authenticated new forensic evidence
+- major scholarly developments
 
-| Version | Status |
-|----------|--------|
-| **v1.0.0** | Initial Public Release |
+Future work should branch from the frozen edition of record rather than revise it casually in place.
 
-Future releases may include:
+## External Review Status
 
-- Newly verified archival material
-- Official investigative findings
-- Editorial corrections
-- Additional forensic evidence
-- Methodological improvements
+Independent external review is pending.
 
----
+The preferred next step is review by qualified subject-matter readers from relevant disciplines such as history, forensic science, archival practice, or intelligence analysis.
 
-# 🤝 Contributing
+## Governance Files
 
-Constructive contributions are welcome.
+Governance and editorial-control documents are located at the repository root:
 
-Please read the following documents before submitting issues or pull requests.
+- [EDITORIAL_HISTORY.md](EDITORIAL_HISTORY.md)
+- [RESEARCH_SCOPE.md](RESEARCH_SCOPE.md)
+- [CHANGELOG.md](CHANGELOG.md)
+- [publication_readiness_assessment_v1.1.0.md](publication_readiness_assessment_v1.1.0.md)
 
-- CONTRIBUTING.md
-- CODE_OF_CONDUCT.md
-- SECURITY.md
+## License
 
-Corrections should be evidence-based and supported by reliable sources.
+This repository is released under the terms of [LICENSE](LICENSE).
 
----
-
-# ⚖️ License
-
-This repository is licensed under the **GNU General Public License v3.0**.
-
-Please note that certain third-party archival materials referenced or reproduced within the repository may remain subject to separate copyright, licensing, or archival-use restrictions.
-
----
-
-# 🙏 Acknowledgements
-
-This work draws upon publicly available archival records, historical newspapers, forensic literature, government publications, and the work of numerous historians and researchers who have contributed to understanding the Somerton Man case over many decades.
-
-Their efforts have greatly expanded the historical record available for independent examination.
-
----
-
-# 📌 Project Status
-
-🟢 **Current Status:** Published
-
-**Latest Release:** Version 1.0.0
-
-This repository functions as a living research archive. Future versions will incorporate verified evidence, official findings, documented corrections, and additional historical material while preserving complete version history.
-
----
-
-<p align="center">
-
-*"Responsible investigation requires acknowledging uncertainty where evidence remains incomplete."*
-
-</p>
+Third-party archival or reproduced source materials referenced in the repository may remain subject to their own archival, copyright, or usage conditions.

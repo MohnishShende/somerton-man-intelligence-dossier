@@ -1,4 +1,4 @@
-\usepackage[paperwidth=8.5in,paperheight=11in,margin=1.05in,headheight=22pt]{geometry}
+\usepackage[paperwidth=8.5in,paperheight=11in,top=1in,bottom=1.08in,inner=1.12in,outer=1.02in,headheight=22pt,headsep=0.28in]{geometry}
 \usepackage{fontspec}
 \usepackage{microtype}
 \usepackage[dvipsnames]{xcolor}
@@ -7,15 +7,19 @@
 \usepackage{longtable}
 \usepackage{tabularx}
 \usepackage{array}
+\usepackage{colortbl}
 \usepackage{ragged2e}
 \usepackage{enumitem}
+\usepackage{etoolbox}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
+\usepackage{caption}
 \usepackage{csquotes}
 \usepackage[backend=biber,style=authoryear,sorting=nyt,maxbibnames=8]{biblatex}
 \usepackage[toc,acronym,nonumberlist]{glossaries-extra}
 \usepackage{makeidx}
 \usepackage{hyperref}
+\usepackage{bookmark}
 \usepackage[nameinlink,noabbrev]{cleveref}
 
 \setmainfont{texgyrepagella}[
@@ -45,56 +49,135 @@
 \definecolor{AssessmentRule}{HTML}{5B6770}
 \definecolor{AssessmentAccent}{HTML}{8A6F3D}
 \definecolor{AssessmentSoft}{HTML}{F5F6F7}
+\definecolor{AssessmentPale}{HTML}{FAFAF8}
+\definecolor{AssessmentLine}{HTML}{D8D2C3}
+\definecolor{AssessmentInk}{HTML}{222831}
+\definecolor{AssessmentMuted}{HTML}{6B7280}
+\definecolor{AssessmentWarn}{HTML}{7A3E2D}
+\definecolor{AssessmentInfo}{HTML}{2F5D62}
 
 \hypersetup{
   pdftitle={Somerton Man: A Multidisciplinary Forensic and Intelligence Assessment},
   pdfauthor={Mohnish},
-  pdfsubject={Forensic, historical, and intelligence-style assessment},
-  pdfkeywords={Somerton Man, Tamam Shud, forensic history, intelligence analysis},
+  pdfsubject={Version 1.1.0 Editorial and Design Edition; forensic, historical, and intelligence-style assessment},
+  pdfkeywords={Somerton Man, Tamam Shud, forensic history, intelligence analysis, forensic monograph, evidence assessment},
+  pdfcreator={XeLaTeX with hyperref and bookmark},
+  pdfproducer={xdvipdfmx},
   colorlinks=true,
   linkcolor=AssessmentNavy,
   citecolor=AssessmentNavy,
-  urlcolor=AssessmentNavy
+  urlcolor=AssessmentInfo,
+  bookmarksopen=true,
+  bookmarksopenlevel=1,
+  bookmarksnumbered=true,
+  pdfpagemode=UseOutlines
 }
+\bookmarksetup{numbered,open}
+
+\linespread{1.035}
+\setlength{\parindent}{1.15em}
+\setlength{\parskip}{0pt}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\brokenpenalty=10000
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{\small\textsc{Somerton Man Assessment}}
-\fancyhead[R]{\small\thepage}
-\renewcommand{\headrulewidth}{0.35pt}
+\fancyhead[L]{\small\sffamily\color{AssessmentMuted}\nouppercase{\leftmark}}
+\fancyhead[R]{\small\sffamily\color{AssessmentMuted}\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{AssessmentRule}\leaders\hrule height \headrulewidth\hfill}}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter\quad #1}{}}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[C]{\small\sffamily\color{AssessmentMuted}\thepage}%
+  \renewcommand{\headrulewidth}{0pt}%
+}
 
 \titleformat{\chapter}[display]
-  {\normalfont\sffamily\LARGE\bfseries\color{AssessmentNavy}\raggedright}
-  {\chaptertitlename\ \thechapter}
-  {0.75em}
-  {\LARGE}
-  [\vspace{0.5em}{\color{AssessmentRule}\titlerule}]
+  {\normalfont\sffamily\color{AssessmentNavy}\raggedright}
+  {\MakeUppercase{\chaptertitlename}\ {\fontsize{28}{30}\selectfont\thechapter}}
+  {0.7em}
+  {\Huge\bfseries}
+  [\vspace{0.45em}{\color{AssessmentAccent}\titlerule[1.1pt]}\vspace{0.65em}]
+\titlespacing*{\chapter}{0pt}{0.35in}{0.45in}
 
 \titleformat{\section}
-  {\normalfont\sffamily\Large\bfseries\color{AssessmentNavy}}
+  {\normalfont\sffamily\Large\bfseries\color{AssessmentNavy}\raggedright}
   {\thesection}
-  {0.6em}
+  {0.7em}
   {}
+\titlespacing*{\section}{0pt}{1.35em plus 0.25em minus 0.15em}{0.45em}
 
 \titleformat{\subsection}
-  {\normalfont\sffamily\large\bfseries\color{AssessmentNavy}}
+  {\normalfont\sffamily\large\bfseries\color{AssessmentNavy}\raggedright}
   {\thesubsection}
-  {0.6em}
+  {0.7em}
   {}
+\titlespacing*{\subsection}{0pt}{1em plus 0.2em minus 0.1em}{0.35em}
 
-\setlist[itemize]{topsep=0.35em,itemsep=0.2em,leftmargin=1.4em}
-\setlist[enumerate]{topsep=0.35em,itemsep=0.2em,leftmargin=1.6em}
-\renewcommand{\arraystretch}{1.15}
-\emergencystretch=2em
+\captionsetup{
+  font={small,sf},
+  labelfont={bf,color=AssessmentNavy},
+  textfont={color=AssessmentInk},
+  justification=RaggedRight,
+  singlelinecheck=false,
+  skip=0.45em
+}
+
+\setlist[itemize]{topsep=0.35em,itemsep=0.18em,leftmargin=1.35em}
+\setlist[enumerate]{topsep=0.35em,itemsep=0.18em,leftmargin=1.55em}
+\renewcommand{\arraystretch}{1.22}
+\setlength{\tabcolsep}{5.2pt}
+\setlength{\LTpre}{0.55em}
+\setlength{\LTpost}{0.75em}
+\arrayrulecolor{AssessmentLine}
+\AtBeginEnvironment{tabularx}{\rowcolors{2}{AssessmentPale}{white}}
+\AtEndEnvironment{tabularx}{\rowcolors{2}{}{}}
+\AtBeginEnvironment{longtable}{\rowcolors{2}{AssessmentPale}{white}}
+\AtEndEnvironment{longtable}{\rowcolors{2}{}{}}
+\emergencystretch=2.5em
 \hbadness=10000
 
 \newcommand{\classification}[1]{%
-  \vspace{0.5em}\noindent
-  \fcolorbox{AssessmentRule}{AssessmentSoft}{%
-    \parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{\sffamily\small\raggedright\textbf{Analytical status:} #1}%
-  }\vspace{0.75em}
+  \par\addvspace{0.65em}\noindent
+  {\setlength{\fboxsep}{0pt}%
+  \colorbox{AssessmentSoft}{%
+    \begin{minipage}{\linewidth}
+      {\color{AssessmentAccent}\rule{\linewidth}{0.8pt}}\par
+      \vspace{0.45em}
+      \hspace{0.8em}\begin{minipage}{\dimexpr\linewidth-1.6em\relax}
+      \sffamily\small\raggedright\textbf{\MakeUppercase{Analytical status}}\par
+      \vspace{0.2em}
+      #1
+      \end{minipage}\par
+      \vspace{0.55em}
+    \end{minipage}}}%
+  \par\addvspace{0.8em}
 }
+
+\newcommand{\reportbox}[3]{%
+  \par\addvspace{0.75em}\noindent
+  {\setlength{\fboxsep}{0pt}%
+  \colorbox{#2!7}{%
+    \begin{minipage}{\linewidth}
+      {\color{#2}\rule{\linewidth}{0.8pt}}\par
+      \vspace{0.45em}
+      \hspace{0.8em}\begin{minipage}{\dimexpr\linewidth-1.6em\relax}
+      \sffamily\small\raggedright\textbf{\MakeUppercase{#1}}\par
+      \vspace{0.25em}
+      #3
+      \end{minipage}\par
+      \vspace{0.55em}
+    \end{minipage}}}%
+  \par\addvspace{0.75em}
+}
+\newcommand{\evidencebox}[1]{\reportbox{Evidence}{AssessmentNavy}{#1}}
+\newcommand{\findingbox}[1]{\reportbox{Finding}{AssessmentAccent}{#1}}
+\newcommand{\assessmentbox}[1]{\reportbox{Intelligence assessment}{AssessmentInfo}{#1}}
+\newcommand{\cautionbox}[1]{\reportbox{Caution}{AssessmentWarn}{#1}}
+\newcommand{\gapbox}[1]{\reportbox{Intelligence gap}{AssessmentRule}{#1}}
 
 \newcommand{\placeholderchapter}[1]{%
   \classification{Foundation placeholder. No substantive case assessment has been drafted in this mission.}
