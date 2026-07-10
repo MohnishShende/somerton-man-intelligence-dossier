@@ -1,31 +1,98 @@
-# Somerton Man Intelligence Dossier
+<div align="center">
 
-The Somerton Man Intelligence Dossier is a version-controlled scholarly research repository documenting an evidence-based historical, forensic, and intelligence-style assessment of the Somerton Man case.
+# 📖 Somerton Man Intelligence Dossier
 
-This repository contains the publication-ready LaTeX manuscript, the supporting research architecture used to produce it, and the editorial and governance records needed to audit, reproduce, and review the work.
+### A Version-Controlled Historical, Forensic & Intelligence Analysis
 
-## Current Status
+*An evidence-based historical investigation applying scholarly research methods, forensic reasoning, and intelligence-style analytical workflows.*
 
-- Edition of record: `v1.1.0`
-- Edition name: `Editorial & Design Edition`
-- Release date: `2026-07-09`
-- Status: `Content frozen`
-- External review: `Pending`
+![Version](https://img.shields.io/badge/Version-v1.1.0-blue)
+![Status](https://img.shields.io/badge/Status-Content%20Frozen-success)
+![LaTeX](https://img.shields.io/badge/Built%20with-LaTeX-008080)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Version `v1.1.0` is the current edition of record. The manuscript's content, evidence, conclusions, confidence assessments, chronology, and methodology are frozen pending external review or a qualifying revision trigger.
+</div>
 
-## What This Project Is
+---
+
+# Overview
+
+The **Somerton Man Intelligence Dossier** is a version-controlled scholarly research repository documenting an evidence-based historical, forensic, and intelligence-style assessment of the Somerton Man case.
+
+The repository contains the publication-ready LaTeX manuscript, the supporting research architecture used to produce it, and the editorial, verification, and governance records required to audit, reproduce, and review the work.
+
+Rather than promoting a preferred theory, this project applies structured analytical methodologies to distinguish **documented evidence**, **supported findings**, **analytical inference**, and **unverified hypotheses**.
+
+---
+
+# Research Principles
+
+This project is guided by four core principles:
+
+- 📚 **Evidence before interpretation**
+- 🔍 **Reproducible analytical methodology**
+- ⚖️ **Explicit confidence assessment**
+- 📝 **Transparent editorial governance**
+
+Every substantive conclusion within the manuscript is intended to remain traceable to supporting evidence or clearly identified as interpretation.
+
+---
+
+# Current Status
+
+| Item | Value |
+|------|-------|
+| 📘 Edition of Record | **v1.1.0** |
+| 🏷 Edition Name | **Editorial & Design Edition** |
+| 📅 Release Date | **2026-07-09** |
+| 📌 Status | **Content Frozen** |
+| 👨‍⚖️ External Review | **Pending** |
+
+Version **v1.1.0** is the current edition of record.
+
+The manuscript's evidence base, chronology, confidence assessments, conclusions, and analytical methodology are frozen pending external review or a qualifying revision trigger.
+
+---
+
+# Project Objectives
 
 The repository is intended to preserve:
 
-- a publication-ready scholarly edition of the manuscript
-- the supporting evidence and verification framework
-- the editorial history and quality-assurance trail
-- the governance rules controlling future revision
+- 📄 A publication-ready scholarly manuscript
+- 📚 A structured evidence and verification framework
+- 🧾 Editorial history and quality assurance records
+- 📈 Research methodology and analytical workflow
+- 🗂 Version-controlled publication artefacts
+- ⚖️ Governance controlling future revision
 
-It is not intended to advocate a preferred theory, promote speculation, replace primary records, or provide legal advice.
+The project is **not** intended to:
 
-## Repository Structure
+- promote speculative theories
+- advocate a preferred conclusion
+- replace official records
+- provide legal advice
+- substitute for primary archival research
+
+---
+
+# Methodology
+
+The dossier applies an intelligence-style analytical workflow incorporating:
+
+- Evidence collection
+- Source evaluation
+- Claim verification
+- Chronology reconstruction
+- Behavioural analysis
+- Competing hypothesis assessment (ACH)
+- Confidence evaluation
+- Editorial governance
+
+The objective is to separate **observation**, **evidence**, **inference**, and **hypothesis**, while maintaining complete traceability between conclusions and supporting material.
+
+---
+
+# Repository Structure
 
 ```text
 assets/             Repository graphics and supporting visual assets
@@ -40,80 +107,161 @@ tables/             Table source material used in the manuscript workflow
 verification/       Claim-verification framework
 ```
 
-## Key Documents
+---
 
-- [README.md](README.md): repository overview
-- [EDITORIAL_HISTORY.md](EDITORIAL_HISTORY.md): editorial history and revision governance
-- [RESEARCH_SCOPE.md](RESEARCH_SCOPE.md): scope, non-objectives, and repository boundaries
-- [CHANGELOG.md](CHANGELOG.md): public release summary
-- [publication_readiness_assessment_v1.1.0.md](publication_readiness_assessment_v1.1.0.md): current publication-readiness assessment
-- [visual_style_guide_v1.1.0.md](visual_style_guide_v1.1.0.md): design and presentation standards for `v1.1.0`
-- [version_1.1.0_implementation_report.md](version_1.1.0_implementation_report.md): implementation summary for the Editorial & Design Edition
-- [manuscript/main.tex](manuscript/main.tex): main LaTeX entry point
-- [manuscript/build/main.pdf](manuscript/build/main.pdf): current compiled PDF
+# Key Documents
 
-## Building the Manuscript
+| Document | Description |
+|----------|-------------|
+| `README.md` | Repository overview |
+| `EDITORIAL_HISTORY.md` | Editorial history and revision governance |
+| `RESEARCH_SCOPE.md` | Project scope, objectives, and repository boundaries |
+| `CHANGELOG.md` | Public release history |
+| `publication_readiness_assessment_v1.1.0.md` | Publication readiness assessment |
+| `visual_style_guide_v1.1.0.md` | Editorial and visual design standards |
+| `version_1.1.0_implementation_report.md` | Editorial & Design Edition implementation summary |
+| `manuscript/main.tex` | Main LaTeX entry point |
+| `manuscript/build/main.pdf` | Current compiled manuscript |
+
+---
+
+# Repository Overview
+
+Current release includes:
+
+- 📖 Publication-ready scholarly manuscript
+- 📚 Comprehensive reference database
+- 🗂 Structured evidence registers
+- ✔ Claim verification framework
+- 📅 Chronological reconstruction
+- 🧠 Behavioural and contextual assessment
+- 📊 Confidence assessment methodology
+- ⚖️ Editorial governance documentation
+
+---
+
+# Building the Manuscript
 
 Build from the repository root:
 
-```sh
+```bash
 make pdf
 ```
 
-This compiles [manuscript/main.tex](manuscript/main.tex) and writes:
+This compiles:
 
-- build output to `manuscript/build/`
-- a copied PDF to `generated_output/pdf/somerton-man-assessment.pdf`
+```text
+manuscript/main.tex
+```
 
-If `biber` needs local bootstrapping on macOS, the repository includes:
+Generated output is written to:
 
-```sh
+```text
+manuscript/build/
+```
+
+A release-ready PDF is additionally copied to:
+
+```text
+generated_output/pdf/somerton-man-assessment.pdf
+```
+
+If **Biber** requires local bootstrapping on macOS:
+
+```bash
 make bootstrap-biber-macos
 ```
 
-To clean generated output:
+To remove generated files:
 
-```sh
+```bash
 make clean
 ```
 
-## Citation Guidance
+---
 
-Citation metadata is provided in [CITATION.cff](CITATION.cff).
+# Citation
 
-When citing this work, cite the specific release consulted rather than the repository in the abstract. The current edition of record is `v1.1.0`, `Editorial & Design Edition`, dated `2026-07-09`.
+Citation metadata is provided in:
 
-## Revision Policy
+```text
+CITATION.cff
+```
 
-The repository is content frozen as of `v1.1.0`.
+When citing this work, reference the specific repository release consulted rather than the repository generally.
 
-Future substantive revision should occur only in response to:
+Current edition:
 
-- new primary evidence
-- official findings
-- demonstrable factual correction
-- authenticated new forensic evidence
-- major scholarly developments
+> **Somerton Man Intelligence Dossier**
+>
+> **Version 1.1.0 – Editorial & Design Edition**
+>
+> Release Date: **2026-07-09**
 
-Future work should branch from the frozen edition of record rather than revise it casually in place.
+---
 
-## External Review Status
+# Revision Policy
 
-Independent external review is pending.
+The repository is **content frozen** as of **v1.1.0**.
 
-The preferred next step is review by qualified subject-matter readers from relevant disciplines such as history, forensic science, archival practice, or intelligence analysis.
+Substantive revision should occur only in response to:
 
-## Governance Files
+- Newly released primary evidence
+- Official findings
+- Demonstrable factual correction
+- Authenticated forensic evidence
+- Significant scholarly developments
 
-Governance and editorial-control documents are located at the repository root:
+Future work should branch from the frozen edition rather than modify it directly.
 
-- [EDITORIAL_HISTORY.md](EDITORIAL_HISTORY.md)
-- [RESEARCH_SCOPE.md](RESEARCH_SCOPE.md)
-- [CHANGELOG.md](CHANGELOG.md)
-- [publication_readiness_assessment_v1.1.0.md](publication_readiness_assessment_v1.1.0.md)
+Routine editorial changes should never alter analytical conclusions.
 
-## License
+---
 
-This repository is released under the terms of [LICENSE](LICENSE).
+# External Review
 
-Third-party archival or reproduced source materials referenced in the repository may remain subject to their own archival, copyright, or usage conditions.
+This edition is considered publication-ready within the repository's internal workflow.
+
+Independent review by qualified subject-matter specialists remains the preferred next step before future substantive revision.
+
+Relevant disciplines include:
+
+- History
+- Forensic Science
+- Archival Practice
+- Intelligence Analysis
+- Criminal Investigation
+- Behavioural Science
+
+---
+
+# Governance
+
+Repository governance and publication controls are documented in:
+
+- `EDITORIAL_HISTORY.md`
+- `RESEARCH_SCOPE.md`
+- `CHANGELOG.md`
+- `publication_readiness_assessment_v1.1.0.md`
+
+These documents define the editorial workflow, revision policy, publication standards, and quality assurance procedures governing the project.
+
+---
+
+# License
+
+This repository is released under the terms of the repository's **LICENSE**.
+
+Third-party archival documents, historical records, photographs, and reproduced source material referenced within the repository may remain subject to their respective copyright, archival, or usage restrictions.
+
+Users are responsible for complying with any conditions imposed by the original custodians of those materials.
+
+---
+
+<div align="center">
+
+### 📚 Evidence Before Interpretation
+
+*Building reproducible historical research through structured evidence, transparent methodology, and disciplined analysis.*
+
+</div>
